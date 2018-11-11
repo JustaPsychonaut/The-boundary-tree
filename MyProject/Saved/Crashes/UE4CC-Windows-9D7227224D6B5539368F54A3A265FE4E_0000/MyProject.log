@@ -1,0 +1,949 @@
+﻿Log file open, 08/12/18 14:52:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1629612338) SRandInit(1629612338).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.172864
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../The boundary tree/MyProject/Binaries/Win64/UE4Editor-MyProject-8.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: A:/Work/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.12-04.53.00:754][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.12-04.53.00:754][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.12-04.53.00:764][  0]LogInit: Computer: DESKTOP-33CG9BL
+[2018.08.12-04.53.00:764][  0]LogInit: User: Momnatra
+[2018.08.12-04.53.00:764][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.12-04.53.00:764][  0]LogInit: High frequency timer resolution =3.421877 MHz
+[2018.08.12-04.53.00:765][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.08.12-04.53.00:765][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.12-04.53.00:765][  0]LogMemory: Process Physical Memory: 276.34 MB used, 276.34 MB peak
+[2018.08.12-04.53.00:765][  0]LogMemory: Process Virtual Memory: 273.66 MB used, 273.66 MB peak
+[2018.08.12-04.53.00:765][  0]LogMemory: Physical Memory: 8188.86 MB used,  8160.33 MB free, 16349.19 MB total
+[2018.08.12-04.53.00:765][  0]LogMemory: Virtual Memory: 4777.65 MB used,  8160.33 MB free, 134217728.00 MB total
+[2018.08.12-04.53.00:853][  0]LogInit: Using OS detected language (ru-RU).
+[2018.08.12-04.53.00:853][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.08.12-04.53.00:854][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.08.12-04.53.00:855][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.08.12-04.53.01:183][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.12-04.53.01:359][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.12-04.53.01:401][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.08.12-04.53.01:401][  0]LogD3D11RHI:       4029/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.12-04.53.01:403][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.12-04.53.01:403][  0]LogD3D11RHI:       0/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.12-04.53.01:403][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.12-04.53.01:408][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.12-04.53.01:408][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.12-04.53.01:408][  0]LogWindows: EnumDisplayDevices:
+[2018.08.12-04.53.01:409][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2018.08.12-04.53.01:409][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.08.12-04.53.01:409][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.08.12-04.53.01:409][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.08.12-04.53.01:409][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.12-04.53.01:409][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.08.12-04.53.01:409][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.12-04.53.01:409][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.12-04.53.01:409][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2018.08.12-04.53.01:427][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.12-04.53.01:437][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.12-04.53.01:486][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../The boundary tree/MyProject/Intermediate/Shaders/WorkingDirectory/8156/).
+[2018.08.12-04.53.01:486][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/justf/AppData/Local/Temp/UnrealShaderWorkingDir/BE373D5749B81ED77940C490D439740E/'.
+[2018.08.12-04.53.01:486][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.12-04.53.02:178][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.12-04.53.02:211][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.12-04.53.02:243][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.12-04.53.02:274][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.12-04.53.02:306][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.12-04.53.02:339][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.12-04.53.02:371][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.12-04.53.02:403][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.12-04.53.02:428][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.12-04.53.02:460][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.12-04.53.02:492][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.12-04.53.02:523][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.12-04.53.02:555][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.12-04.53.02:587][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.12-04.53.02:649][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.12-04.53.02:649][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.12-04.53.02:681][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.12-04.53.02:703][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.12-04.53.02:768][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.12-04.53.02:787][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.12-04.53.02:818][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.12-04.53.02:851][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.12-04.53.02:883][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.12-04.53.02:916][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.12-04.53.02:916][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.12-04.53.03:183][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.12-04.53.03:240][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/justf/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.08.12-04.53.03:240][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/justf/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.08.12-04.53.03:240][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../The boundary tree/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.12-04.53.03:240][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.12-04.53.03:240][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../The boundary tree/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.12-04.53.03:240][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.12-04.53.03:253][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.12-04.53.03:265][  0]LogDerivedDataCache: Using Local data cache path C:/Users/justf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.12-04.53.03:273][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.12-04.53.03:273][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.12-04.53.03:274][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.12-04.53.03:274][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.12-04.53.03:546][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.12-04.53.03:751][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.12-04.53.03:773][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.12-04.53.03:773][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.12-04.53.03:773][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.12-04.53.03:773][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.12-04.53.03:773][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.12-04.53.03:794][  0]LogNetVersion: MyProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1490074681)
+[2018.08.12-04.53.03:917][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2018.08.12-04.53.04:286][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.023416 seconds
+[2018.08.12-04.53.04:291][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.08.12-04.53.04:291][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.08.12-04.53.04:291][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.12-04.53.04:318][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.08.12-04.53.06:178][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.12-04.53.06:212][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.12-04.53.06:659][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.08.12-04.53.06:922][  0]SourceControl: Source control is disabled
+[2018.08.12-04.53.06:922][  0]SourceControl: Source control is disabled
+[2018.08.12-04.53.06:952][  0]SourceControl: Source control is disabled
+[2018.08.12-04.53.06:983][  0]SourceControl: Source control is disabled
+[2018.08.12-04.53.07:452][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.12-04.53.07:610][  0]LogOcInput: OculusInput pre-init called
+[2018.08.12-04.53.07:777][  0]LogEngine: Initializing Engine...
+[2018.08.12-04.53.07:779][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.12-04.53.07:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.12-04.53.07:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.12-04.53.08:021][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.12-04.53.08:030][  0]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.12-04.53.08:041][  0]LogInit: FAudioDevice initialized.
+[2018.08.12-04.53.08:224][  0]LogDerivedDataCache: Saved boot cache 0.18s 78MB C:/Users/justf/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.08.12-04.53.08:235][  0]LogInit: Texture streaming: Enabled
+[2018.08.12-04.53.08:292][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.12-04.53.08:292][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={FCC675FF-4E8B-CF5D-E84E-C49BDF5D6FD2}
+[2018.08.12-04.53.08:374][  0]LogInit: Transaction tracking system initialized
+[2018.08.12-04.53.08:552][  0]BlueprintLog: New page: Editor Load
+[2018.08.12-04.53.09:052][  0]LocalizationService: Localization service is disabled
+[2018.08.12-04.53.09:480][  0]LogConsoleResponse: Display: 
+[2018.08.12-04.53.09:604][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.12-04.53.09:604][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.12-04.53.09:604][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.12-04.53.10:260][  0]LogFileCache: Scanning file cache for directory 'A:/Work/The boundary tree/MyProject/Content/' took 0.01s
+[2018.08.12-04.53.10:288][  0]SourceControl: Source control is disabled
+[2018.08.12-04.53.10:390][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.12-04.53.10:392][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.12-04.53.16:653][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.12-04.53.16:655][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.12-04.53.16:661][  0]Cmd: MAP LOAD FILE="../../../../The boundary tree/MyProject/Content/2DSideScrollerBP/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.12-04.53.16:662][  0]LightingResults: New page: Lighting Build
+[2018.08.12-04.53.16:689][  0]MapCheck: New page: Map Check
+[2018.08.12-04.53.16:689][  0]LightingResults: New page: Lighting Build
+[2018.08.12-04.53.17:556][  0]LogAIModule: Creating AISystem for world Menu
+[2018.08.12-04.53.17:570][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.12-04.53.17:589][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.12-04.53.17:628][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 39.604ms to complete.
+[2018.08.12-04.53.17:628][  0]LogFileHelpers: Loading map 'Menu' took 0.966
+[2018.08.12-04.53.17:698][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_1e0_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_2a8_0///####STATCAT_Advanced####
+[2018.08.12-04.53.17:698][  0]LogCollectionManager: Loaded 0 collections in 0.000680 seconds
+[2018.08.12-04.53.17:761][  0]LogFileCache: Scanning file cache for directory 'A:/Work/The boundary tree/MyProject/Saved/Collections/' took 0.01s
+[2018.08.12-04.53.17:761][  0]LogFileCache: Scanning file cache for directory 'A:/Work/The boundary tree/MyProject/Content/Developers/Momnatra/Collections/' took 0.01s
+[2018.08.12-04.53.17:761][  0]LogFileCache: Scanning file cache for directory 'A:/Work/The boundary tree/MyProject/Content/Collections/' took 0.01s
+[2018.08.12-04.53.17:761][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.12-04.53.17:768][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2366 classes and 521 folders.
+[2018.08.12-04.53.17:808][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.12-04.53.17:834][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.12-04.53.17:859][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.08.12-04.53.17:929][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.12-04.53.17:933][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.12-04.53.18:017][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.08.12-04.53.18:045][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.12-04.53.18:139][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.08.12-04.53.18:139][  0]LogLoad: (Engine Initialization) Total time: 19.04 seconds
+[2018.08.12-04.53.18:139][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.12-04.53.18:139][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.08.12-04.53.18:167][  0]LogAssetRegistry: Asset discovery search completed in 14.2729 seconds
+[2018.08.12-04.53.18:169][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.12-04.53.18:169][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2018.08.12-04.53.18:170][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.12-04.53.19:174][101]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.12-04.53.33:389][793]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.12-04.53.33:633][793]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.08.12-04.53.34:164][793]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.12-04.53.34:226][794]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.12-04.53.39:991][444]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.12-04.53.39:991][444]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.12-04.53.56:918][447]LogEditorTransaction: Undo Move Node
+[2018.08.12-04.53.57:110][463]LogEditorTransaction: Undo Move Node
+[2018.08.12-04.53.57:265][474]LogEditorTransaction: Undo Add Node
+[2018.08.12-04.53.59:445][707]BlueprintLog: New page: Compile BT_Task_MoveTo_2d
+[2018.08.12-05.03.18:589][113]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Menu' took 0.021
+[2018.08.12-05.03.18:590][113]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d] ([1] browsable assets)...
+[2018.08.12-05.03.18:590][113]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d]
+[2018.08.12-05.03.18:651][113]LogSavePackage: Save=30.27ms
+[2018.08.12-05.03.18:651][113]LogSavePackage: Moving '../../../../The boundary tree/MyProject/Saved/BT_Task_MoveTo_2d_Auto1104BF1314DAAD291A492DA88AC057131.tmp' to '../../../../The boundary tree/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d_Auto1.uasset'
+[2018.08.12-05.03.18:653][113]LogSavePackage: Display: Finished SavePackage ../../../../The boundary tree/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d_Auto1.uasset
+[2018.08.12-05.03.18:653][113]LogFileHelpers: Auto-saving content packages took 0.063
+[2018.08.12-05.12.48:555][116]BlueprintLog: New page: Compile BT_Task_MoveTo_2d
+[2018.08.12-05.12.51:805][487]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.12-05.12.51:912][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.08.12-05.12.51:912][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.12-05.12.51:913][487]PIE: New page: PIE session: Menu (Aug 13, 2018, 1:12:51 AM)
+[2018.08.12-05.12.51:913][487]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Menu
+[2018.08.12-05.12.51:917][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004097s)
+[2018.08.12-05.12.51:918][487]LogAIModule: Creating AISystem for world Menu
+[2018.08.12-05.12.51:918][487]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2018.08.12-05.12.51:918][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Menu.Menu to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Menu.Menu (0.005289s)
+[2018.08.12-05.12.51:941][487]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.12-05.12.51:948][487]LogInit: FAudioDevice initialized.
+[2018.08.12-05.12.51:997][487]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.08.12-05.12.52:106][487]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2018.08.12-15.12.52
+[2018.08.12-05.12.52:107][487]LogWorld: Bringing up level for play took: 0.003235
+[2018.08.12-05.12.52:142][487]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.08.12-05.12.52:144][487]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Menu 1.007
+[2018.08.12-05.12.52:144][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.08.12-05.12.52:384][512]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:384][512]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:401][514]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:401][514]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:418][516]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:418][516]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:434][518]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:435][518]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:451][520]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:451][520]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:468][522]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:468][522]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:485][524]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:485][524]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:502][526]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:502][526]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:518][528]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:518][528]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:535][530]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:535][530]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:551][532]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:552][532]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:568][534]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:568][534]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:585][536]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:585][536]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:601][538]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:601][538]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:618][540]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:618][540]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:635][542]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:635][542]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:651][544]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:651][544]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:668][546]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:668][546]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:685][548]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:685][548]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:702][550]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:702][550]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:718][552]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:718][552]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:735][554]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:735][554]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:751][556]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:751][556]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:768][558]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:768][558]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:784][560]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:784][560]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:801][562]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:801][562]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:818][564]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:818][564]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:834][566]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:834][566]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:851][568]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:851][568]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:868][570]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:868][570]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:885][572]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:885][572]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:902][574]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:902][574]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:918][576]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:918][576]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:935][578]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:935][578]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:951][580]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:951][580]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:968][582]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:968][582]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.52:985][584]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.52:985][584]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:001][586]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:001][586]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:018][588]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:018][588]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:034][590]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:034][590]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:051][592]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:051][592]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:068][594]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:068][594]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:085][596]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:085][596]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:102][598]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:102][598]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:119][600]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:119][600]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:135][602]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:135][602]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:154][604]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:155][604]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:171][606]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:171][606]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:188][608]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:188][608]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:204][610]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:204][610]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:221][612]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:221][612]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:237][614]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:237][614]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:254][616]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:254][616]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:271][618]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:271][618]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:287][620]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:287][620]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:305][622]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:305][622]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:321][624]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:321][624]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:338][626]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:338][626]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:354][628]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:354][628]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:371][630]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:371][630]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:388][632]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:388][632]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:404][634]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:404][634]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:421][636]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:421][636]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:438][638]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:438][638]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:454][640]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:455][640]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:471][642]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:471][642]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:488][644]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:488][644]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:505][646]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:505][646]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:521][648]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:521][648]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:538][650]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:538][650]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:555][652]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:555][652]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:571][654]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:571][654]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:588][656]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:588][656]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:605][658]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:605][658]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:621][660]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:621][660]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:638][662]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:638][662]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:654][664]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:654][664]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:671][666]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:671][666]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:688][668]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:688][668]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:704][670]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:704][670]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:721][672]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:721][672]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:738][674]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:738][674]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:755][676]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:755][676]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:771][678]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:771][678]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:788][680]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:788][680]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:805][682]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:805][682]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:822][684]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:822][684]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:838][686]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:838][686]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:854][688]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:854][688]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:871][690]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:871][690]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:888][692]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:888][692]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:905][694]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:905][694]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:921][696]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:921][696]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:938][698]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:938][698]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:955][700]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:955][700]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:972][702]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:972][702]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.53:988][704]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.53:988][704]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:005][706]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:005][706]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:022][708]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:022][708]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:038][710]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:038][710]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:054][712]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:054][712]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:071][714]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:071][714]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:088][716]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:088][716]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:104][718]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:104][718]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:121][720]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:121][720]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:138][722]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:138][722]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:155][724]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:155][724]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:172][726]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:172][726]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:188][728]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:188][728]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:204][730]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:204][730]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:221][732]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:221][732]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:237][734]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:237][734]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:254][736]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:254][736]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:271][738]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:271][738]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:288][740]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:288][740]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:305][742]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:305][742]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:321][744]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:321][744]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:337][746]LogBlueprintUserMessages: [MoveTo_2d_C_0] 1.0
+[2018.08.12-05.12.54:337][746]LogBlueprintUserMessages: [MoveTo_2d_C_0] 2.0
+[2018.08.12-05.12.54:346][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.08.12-05.12.54:381][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.08.12-05.14.04:126][488]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Menu' took 0.019
+[2018.08.12-05.14.04:128][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d] ([1] browsable assets)...
+[2018.08.12-05.14.04:128][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d]
+[2018.08.12-05.14.04:219][488]LogSavePackage: Save=42.31ms
+[2018.08.12-05.14.04:219][488]LogSavePackage: Moving '../../../../The boundary tree/MyProject/Saved/BT_Task_MoveTo_2d_Auto26BF83150406233E3C1D4E886BBBE6B0E.tmp' to '../../../../The boundary tree/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d_Auto2.uasset'
+[2018.08.12-05.14.04:221][488]LogSavePackage: Display: Finished SavePackage ../../../../The boundary tree/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d_Auto2.uasset
+[2018.08.12-05.14.04:221][488]LogFileHelpers: Auto-saving content packages took 0.095
+[2018.08.12-05.21.42:161][289]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.12-05.26.25:180][137]LogWindows: LaunchFileInExternalEditor A:/Work/UE_4.18/Engine/Source/Editor/AIGraph/Public/K2Node_AIMoveTo.h 
+[2018.08.12-05.26.25:264][137]LogWindows: Launch application code for A:/Work/UE_4.18/Engine/Source/Editor/AIGraph/Public/K2Node_AIMoveTo.h : 42
+[2018.08.12-05.26.25:264][137]LogWindows: LaunchFileInExternalEditor A:/Work/UE_4.18/Engine/Source/Editor/AIGraph/Private/K2Node_AIMoveTo.cpp 
+[2018.08.12-05.26.25:382][137]LogWindows: Launch application code for A:/Work/UE_4.18/Engine/Source/Editor/AIGraph/Private/K2Node_AIMoveTo.cpp : 42
+[2018.08.12-05.26.25:382][137]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.08.12-05.26.25:386][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:386][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:386][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:386][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:386][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:387][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:387][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:387][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:387][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:387][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:387][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:387][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:387][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:387][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:387][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:387][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:387][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:387][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:389][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:389][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:389][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:389][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:389][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:389][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:389][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:389][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:389][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:389][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:389][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:390][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:390][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:390][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:390][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:390][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:390][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:390][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:390][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:390][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:390][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:390][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:390][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:391][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:392][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:393][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:393][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:393][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:396][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:398][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:422][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:423][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:423][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:430][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:430][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:430][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:433][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:450][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:478][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:507][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:509][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:511][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:523][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:612][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.26.25:613][137]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.35.19:267][ 67]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.12-05.35.19:600][ 68]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.12-05.35.19:935][ 69]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.12-05.35.20:267][ 70]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.12-05.40.12:724][595]LogWindows: LaunchFileInExternalEditor A:/Work/UE_4.18/Engine/Source/Runtime/AIModule/Classes/Tasks/AITask_MoveTo.h 
+[2018.08.12-05.40.12:782][595]LogWindows: Launch application code for A:/Work/UE_4.18/Engine/Source/Runtime/AIModule/Classes/Tasks/AITask_MoveTo.h : 42
+[2018.08.12-05.40.12:782][595]LogWindows: LaunchFileInExternalEditor A:/Work/UE_4.18/Engine/Source/Runtime/AIModule/Private/Tasks/AITask_MoveTo.cpp 
+[2018.08.12-05.40.12:898][595]LogWindows: Launch application code for A:/Work/UE_4.18/Engine/Source/Runtime/AIModule/Private/Tasks/AITask_MoveTo.cpp : 42
+[2018.08.12-05.40.12:898][595]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.08.12-05.40.12:902][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:902][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:902][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:902][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:902][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:902][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:903][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:903][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:903][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:903][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:903][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:903][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:903][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:903][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:904][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:905][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:905][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:905][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:906][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:906][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:906][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:907][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:907][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:907][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:907][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:907][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:907][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:907][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:907][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:907][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:908][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:908][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:908][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:908][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:908][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:908][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:908][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:908][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:908][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:908][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:908][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:908][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:908][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:908][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:909][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:909][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:909][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:909][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:909][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:909][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:909][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:909][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:909][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:909][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:909][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:909][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:910][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:910][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:910][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:910][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:912][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:914][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:928][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:929][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:929][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:934][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:934][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:935][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:937][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:953][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:972][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:981][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:982][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:983][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.12:992][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.13:101][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.40.13:102][595]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:407][ 17]LogWindows: LaunchFileInExternalEditor A:/Work/UE_4.18/Engine/Source/Runtime/AIModule/Classes/BehaviorTree/Tasks/BTTask_MoveTo.h 
+[2018.08.12-05.47.41:480][ 17]LogWindows: Launch application code for A:/Work/UE_4.18/Engine/Source/Runtime/AIModule/Classes/BehaviorTree/Tasks/BTTask_MoveTo.h : 42
+[2018.08.12-05.47.41:480][ 17]LogWindows: LaunchFileInExternalEditor A:/Work/UE_4.18/Engine/Source/Runtime/AIModule/Private/BehaviorTree/Tasks/BTTask_MoveTo.cpp 
+[2018.08.12-05.47.41:582][ 17]LogWindows: Launch application code for A:/Work/UE_4.18/Engine/Source/Runtime/AIModule/Private/BehaviorTree/Tasks/BTTask_MoveTo.cpp : 42
+[2018.08.12-05.47.41:582][ 17]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.08.12-05.47.41:587][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:587][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:587][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:587][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:588][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:589][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:589][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:589][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:589][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:589][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:589][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:589][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:589][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:589][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:589][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:589][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:589][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:589][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:589][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:590][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:591][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:592][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:592][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:592][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:592][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:592][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:592][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:592][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:592][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:592][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:592][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:594][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:596][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:607][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:608][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:608][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:612][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:612][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:612][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:614][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:634][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:657][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:664][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:665][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:667][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:675][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:793][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-05.47.41:794][ 17]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.12-06.03.48:945][869]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Menu' took 0.027
+[2018.08.12-06.03.48:947][869]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d] ([1] browsable assets)...
+[2018.08.12-06.03.48:947][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d]
+[2018.08.12-06.03.49:021][869]LogSavePackage: Save=37.94ms
+[2018.08.12-06.03.49:021][869]LogSavePackage: Moving '../../../../The boundary tree/MyProject/Saved/BT_Task_MoveTo_2d_Auto3AB0A42014A6FF4D65A52179D51EA2952.tmp' to '../../../../The boundary tree/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d_Auto3.uasset'
+[2018.08.12-06.03.49:022][869]LogSavePackage: Display: Finished SavePackage ../../../../The boundary tree/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d_Auto3.uasset
+[2018.08.12-06.03.49:022][869]LogFileHelpers: Auto-saving content packages took 0.074
+[2018.08.12-06.13.49:690][200]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Menu' took 0.021
+[2018.08.12-06.13.49:692][200]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d] ([1] browsable assets)...
+[2018.08.12-06.13.49:692][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d]
+[2018.08.12-06.13.49:777][200]LogSavePackage: Save=56.25ms
+[2018.08.12-06.13.49:777][200]LogSavePackage: Moving '../../../../The boundary tree/MyProject/Saved/BT_Task_MoveTo_2d_Auto4DE880ED441845BAFB01DBC81B5682E60.tmp' to '../../../../The boundary tree/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d_Auto4.uasset'
+[2018.08.12-06.13.49:779][200]LogSavePackage: Display: Finished SavePackage ../../../../The boundary tree/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/AI/PathFinding/BT_Task_MoveTo_2d_Auto4.uasset
+[2018.08.12-06.13.49:779][200]LogFileHelpers: Auto-saving content packages took 0.088
+[2018.08.12-08.06.28:438][474]LogHotReload: New module detected: UE4Editor-MyProject-2760.dll
+[2018.08.12-08.06.29:479][478]LogHotReload: Starting Hot-Reload from IDE
+[2018.08.12-08.06.33:284][478]LogWindows: Windows GetLastError: Операция успешно завершена. (0)

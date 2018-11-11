@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\MyProject.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{A970CB1C-92CB-4559-9082-59DB383A14AA}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MyProject.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\MyProjectEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{69532499-AF85-4878-8C20-B518A5279DE9}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\MyProject">
+			<UniqueIdentifier>{8B6778A5-4E9E-4ACB-A795-F9DC8032636D}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\MyProject\AI_MoveTo_Simple2D.cpp">
+			<Filter>Source\MyProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyProject\AI_MoveTo_Simple2D.h">
+			<Filter>Source\MyProject</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MyProject\AI_RelocationConnectionPoints.cpp">
+			<Filter>Source\MyProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyProject\AI_RelocationConnectionPoints.h">
+			<Filter>Source\MyProject</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MyProject\AI_WalkableSpace.cpp">
+			<Filter>Source\MyProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyProject\AI_WalkableSpace.h">
+			<Filter>Source\MyProject</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\MyProject\MyProject.Build.cs">
+			<Filter>Source\MyProject</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\MyProject\MyProject.cpp">
+			<Filter>Source\MyProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyProject\MyProject.h">
+			<Filter>Source\MyProject</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
