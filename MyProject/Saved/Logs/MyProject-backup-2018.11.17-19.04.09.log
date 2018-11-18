@@ -1,0 +1,1423 @@
+﻿Log file open, 11/17/18 15:25:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.292222
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.205s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU: Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: E:/Unreal engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.014s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.17-05.25.26:417][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.17-05.25.26:417][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.17-05.25.26:473][  0]LogHAL: Display: Platform has ~ 12 GB [12826193920 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.17-05.25.26:480][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.17-05.25.26:480][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.17-05.25.26:510][  0]LogInit: Computer: ДЕНИС-ПК
+[2018.11.17-05.25.26:510][  0]LogInit: User: Денис
+[2018.11.17-05.25.26:510][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.17-05.25.26:510][  0]LogInit: High frequency timer resolution =3.320361 MHz
+[2018.11.17-05.25.26:511][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.11.17-05.25.26:511][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.17-05.25.26:511][  0]LogMemory: Process Physical Memory: 103.25 MB used, 103.25 MB peak
+[2018.11.17-05.25.26:511][  0]LogMemory: Process Virtual Memory: 88.64 MB used, 88.64 MB peak
+[2018.11.17-05.25.26:511][  0]LogMemory: Physical Memory: 7882.37 MB used,  4349.64 MB free, 12232.01 MB total
+[2018.11.17-05.25.26:511][  0]LogMemory: Virtual Memory: 476.55 MB used,  4349.64 MB free, 8388608.00 MB total
+[2018.11.17-05.25.27:108][  0]LogInit: Using OS detected language (ru-RU).
+[2018.11.17-05.25.27:108][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.11.17-05.25.27:169][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2018.11.17-05.25.27:299][  0]LogStreaming: Display: Took  0.178s to InitEngineTextLocalization.
+[2018.11.17-05.25.27:305][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.11.17-05.25.27:305][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.11.17-05.25.27:305][  0]LogInit: Setting process to DPI aware
+[2018.11.17-05.25.27:833][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.17-05.25.27:833][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.17-05.25.29:569][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.17-05.25.29:569][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.17-05.25.29:616][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2018.11.17-05.25.29:616][  0]LogD3D11RHI:       1960/0/5860 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.17-05.25.29:616][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.17-05.25.29:624][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.17-05.25.29:624][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.17-05.25.29:624][  0]LogWindows: EnumDisplayDevices:
+[2018.11.17-05.25.29:624][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2018.11.17-05.25.29:624][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2018.11.17-05.25.29:624][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.11.17-05.25.29:624][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.11.17-05.25.29:624][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.11.17-05.25.29:624][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.11.17-05.25.29:625][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.11.17-05.25.29:625][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.11.17-05.25.29:625][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2018.11.17-05.25.29:625][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
+[2018.11.17-05.25.29:625][  0]LogD3D11RHI:      Driver Date: 11-12-2018
+[2018.11.17-05.25.29:625][  0]LogRHI: Texture pool is 1372 MB (70% of 1960 MB)
+[2018.11.17-05.25.29:652][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.17-05.25.29:857][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.17-05.25.29:940][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Intermediate/Shaders/WorkingDirectory/12316/).
+[2018.11.17-05.25.29:940][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Денис/AppData/Local/Temp/UnrealShaderWorkingDir/DB61633942E48F3BC93B29BB48A80FF7/'.
+[2018.11.17-05.25.31:194][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.17-05.25.31:215][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.17-05.25.31:235][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.17-05.25.31:261][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.17-05.25.31:295][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.17-05.25.31:331][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.17-05.25.31:356][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.17-05.25.31:381][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.17-05.25.31:395][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-05.25.31:524][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.17-05.25.31:618][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.17-05.25.31:618][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.17-05.25.31:656][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.17-05.25.31:656][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.17-05.25.31:681][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.17-05.25.31:701][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.17-05.25.31:729][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.17-05.25.31:756][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.17-05.25.31:771][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.17-05.25.31:772][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.17-05.25.32:276][  0]LogXGEController: Cleaning working directory: C:/Users/Денис/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.17-05.25.32:276][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.17-05.25.32:277][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.17-05.25.32:277][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.17-05.25.34:224][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.17-05.25.34:455][  0]LogDerivedDataCache: Loaded boot cache 0.23s 71MB C:/Users/Денис/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.17-05.25.34:456][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Денис/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.17-05.25.34:456][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.17-05.25.34:456][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.17-05.25.34:456][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.17-05.25.34:456][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.17-05.25.34:501][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.17-05.25.34:513][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Денис/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.17-05.25.34:513][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.17-05.25.34:513][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.17-05.25.34:535][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.17-05.25.34:593][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.17-05.25.34:659][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.17-05.25.35:379][  0]LogAssetRegistry: FAssetRegistry took 0.0294 seconds to start up
+[2018.11.17-05.25.38:791][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.17-05.25.42:808][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.17-05.25.43:215][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.17-05.25.43:222][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.17-05.25.43:233][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.17-05.25.43:233][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.17-05.25.43:886][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1110078900)
+[2018.11.17-05.25.44:493][  0]LogObj: Error: LoadConfig (/Script/Engine.Default__RendererSettings): import failed for bEnableAlphaChannelInPostProcessing in: False
+[2018.11.17-05.25.49:932][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.121643 seconds
+[2018.11.17-05.25.50:017][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.17-05.25.50:017][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.17-05.25.50:017][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.17-05.26.22:986][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.17-05.26.23:023][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.17-05.26.23:936][  0]SourceControl: Source control is disabled
+[2018.11.17-05.26.23:937][  0]SourceControl: Source control is disabled
+[2018.11.17-05.26.23:978][  0]SourceControl: Source control is disabled
+[2018.11.17-05.26.23:998][  0]SourceControl: Source control is disabled
+[2018.11.17-05.26.25:013][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.17-05.26.25:166][  0]LogOcInput: OculusInput pre-init called
+[2018.11.17-05.26.25:557][  0]LogEngine: Initializing Engine...
+[2018.11.17-05.26.25:569][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.17-05.26.25:599][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.17-05.26.25:599][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.17-05.26.25:599][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.17-05.26.25:599][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.17-05.26.25:899][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.17-05.26.26:185][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.17-05.26.26:287][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.17-05.26.26:305][  0]LogInit: FAudioDevice initialized.
+[2018.11.17-05.26.26:305][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.17-05.26.26:383][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Денис/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.17-05.26.26:384][  0]LogInit: Texture streaming: Enabled
+[2018.11.17-05.26.26:469][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.17-05.26.26:548][  0]LogInit: Transaction tracking system initialized
+[2018.11.17-05.26.26:850][  0]BlueprintLog: New page: Editor Load
+[2018.11.17-05.26.27:629][  0]LocalizationService: Localization service is disabled
+[2018.11.17-05.26.29:455][  0]LogFileCache: Scanning file cache for directory 'E:/Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/' took 0.01s
+[2018.11.17-05.26.29:455][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.17-05.26.29:463][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.17-05.26.29:480][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.17-05.26.29:480][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.17-05.26.29:480][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.17-05.26.29:480][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.17-05.26.29:480][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.17-05.26.32:884][  0]SourceControl: Source control is disabled
+[2018.11.17-05.26.32:910][  0]Cmd: MAP LOAD FILE="../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Maps/Menu_Intro.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.17-05.26.32:922][  0]LightingResults: New page: Lighting Build
+[2018.11.17-05.26.33:154][  0]MapCheck: New page: Map Check
+[2018.11.17-05.26.33:155][  0]LightingResults: New page: Lighting Build
+[2018.11.17-05.26.34:012][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:012][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__10.uasset.
+[2018.11.17-05.26.34:013][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__10 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:013][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:013][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__10.uasset.
+[2018.11.17-05.26.34:013][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__10 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:016][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:016][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__11.uasset.
+[2018.11.17-05.26.34:016][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__11 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:016][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:017][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__11.uasset.
+[2018.11.17-05.26.34:017][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__11 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:018][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:018][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__12.uasset.
+[2018.11.17-05.26.34:018][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__12 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:019][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:019][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__12.uasset.
+[2018.11.17-05.26.34:019][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__12 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:020][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:020][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__14.uasset.
+[2018.11.17-05.26.34:020][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__14 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:020][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:020][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__14.uasset.
+[2018.11.17-05.26.34:020][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__14 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:021][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:022][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__15.uasset.
+[2018.11.17-05.26.34:022][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__15 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:022][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:022][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__15.uasset.
+[2018.11.17-05.26.34:022][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__15 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:023][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:023][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__16.uasset.
+[2018.11.17-05.26.34:023][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__16 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:023][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:023][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__16.uasset.
+[2018.11.17-05.26.34:023][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__16 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:024][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:025][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__17.uasset.
+[2018.11.17-05.26.34:025][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__17 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:025][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:025][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__17.uasset.
+[2018.11.17-05.26.34:025][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__17 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:026][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:026][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__18.uasset.
+[2018.11.17-05.26.34:026][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__18 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:026][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:026][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__18.uasset.
+[2018.11.17-05.26.34:026][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__18 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:028][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:028][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__19.uasset.
+[2018.11.17-05.26.34:028][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__19 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:028][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:028][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__19.uasset.
+[2018.11.17-05.26.34:028][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__19 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:034][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:034][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__20.uasset.
+[2018.11.17-05.26.34:034][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__20 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:034][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:034][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__20.uasset.
+[2018.11.17-05.26.34:034][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__20 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:035][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:035][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__21.uasset.
+[2018.11.17-05.26.34:035][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__21 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:036][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:036][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__21.uasset.
+[2018.11.17-05.26.34:036][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__21 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:087][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:087][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__4.uasset.
+[2018.11.17-05.26.34:087][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__4 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:087][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:087][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__4.uasset.
+[2018.11.17-05.26.34:087][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__4 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:088][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:088][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__5.uasset.
+[2018.11.17-05.26.34:089][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__5 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:089][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:089][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__5.uasset.
+[2018.11.17-05.26.34:089][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__5 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:090][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:090][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__6.uasset.
+[2018.11.17-05.26.34:090][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__6 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:090][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:090][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__6.uasset.
+[2018.11.17-05.26.34:091][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__6 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:091][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:092][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__7.uasset.
+[2018.11.17-05.26.34:092][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__7 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:092][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:092][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__7.uasset.
+[2018.11.17-05.26.34:092][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__7 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:093][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:093][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__8.uasset.
+[2018.11.17-05.26.34:093][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__8 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:093][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:093][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__8.uasset.
+[2018.11.17-05.26.34:093][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__8 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:094][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:094][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__9.uasset.
+[2018.11.17-05.26.34:094][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__9 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:095][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:095][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading ../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Material__9.uasset.
+[2018.11.17-05.26.34:095][  0]LoadErrors: Error: /Game/Menu_Intro/Meshes/TheBook/Material__9 : Can't find file for asset. /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_
+[2018.11.17-05.26.34:355][  0]LogLinker: Warning: Asset '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Materials/MF_ConvolveTexture.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.17-05.26.34:358][  0]LogLinker: Warning: Asset '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Materials/MF_ExtractDepth.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.17-05.26.34:359][  0]LogLinker: Warning: Asset '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Materials/MF_SampleSceneTextureNeighbourUVs.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.17-05.26.34:521][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:521][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:521][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:521][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:521][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:522][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:522][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:522][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:522][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:522][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:522][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:522][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:522][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:523][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:523][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:523][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:523][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:523][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:523][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:523][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:523][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:523][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:523][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:523][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:524][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:524][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:524][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:524][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:524][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:524][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:524][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:524][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:524][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:524][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:524][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:524][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:525][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:525][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:525][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:525][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:525][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:525][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:525][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:525][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:569][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:569][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:569][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:569][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:570][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:570][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:570][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:570][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:570][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:570][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:570][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:571][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:571][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:571][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:571][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:571][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:571][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:571][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:571][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:571][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:572][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_'
+[2018.11.17-05.26.34:572][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.34:572][  0]LogLinker: Warning: Can't find file for asset '/Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_' while loading NULL.
+[2018.11.17-05.26.34:572][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/Book/Book_1/uv_map_reference_1_.uv_map_reference_1_ Referenced by MaterialExpressionTextureSample_0
+[2018.11.17-05.26.35:382][  0]LogMaterial: Display: Missing cached shader map for material Material__21, compiling. 
+[2018.11.17-05.26.35:396][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__21.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:396][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:398][  0]LogMaterial: Display: Missing cached shader map for material Material__20, compiling. 
+[2018.11.17-05.26.35:399][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__20.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:399][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:413][  0]LogMaterial: Display: Missing cached shader map for material Material__19, compiling. 
+[2018.11.17-05.26.35:413][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__19.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:413][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:418][  0]LogMaterial: Display: Missing cached shader map for material Material__18, compiling. 
+[2018.11.17-05.26.35:419][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__18.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:419][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:422][  0]LogMaterial: Display: Missing cached shader map for material Material__17, compiling. 
+[2018.11.17-05.26.35:423][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__17.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:423][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:425][  0]LogMaterial: Display: Missing cached shader map for material Material__16, compiling. 
+[2018.11.17-05.26.35:426][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__16.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:426][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:428][  0]LogMaterial: Display: Missing cached shader map for material Material__15, compiling. 
+[2018.11.17-05.26.35:429][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__15.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:429][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:433][  0]LogMaterial: Display: Missing cached shader map for material Material__14, compiling. 
+[2018.11.17-05.26.35:433][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__14.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:434][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:436][  0]LogMaterial: Display: Missing cached shader map for material Material__12, compiling. 
+[2018.11.17-05.26.35:436][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__12.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:436][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:439][  0]LogMaterial: Display: Missing cached shader map for material Material__11, compiling. 
+[2018.11.17-05.26.35:439][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__11.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:439][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:441][  0]LogMaterial: Display: Missing cached shader map for material Material__10, compiling. 
+[2018.11.17-05.26.35:442][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__10.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:442][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:464][  0]LogMaterial: Display: Missing cached shader map for material M_Page, compiling. 
+[2018.11.17-05.26.35:819][  0]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.17-05.26.35:819][  0]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.17-05.26.35:819][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.17-05.26.35:819][  0]LogMaterial: Display: Missing cached shader map for material Material__9, compiling. 
+[2018.11.17-05.26.35:819][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__9.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:819][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:821][  0]LogMaterial: Display: Missing cached shader map for material Material__8, compiling. 
+[2018.11.17-05.26.35:822][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__8.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:822][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:824][  0]LogMaterial: Display: Missing cached shader map for material Material__7, compiling. 
+[2018.11.17-05.26.35:825][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__7.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:825][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:827][  0]LogMaterial: Display: Missing cached shader map for material Material__6, compiling. 
+[2018.11.17-05.26.35:827][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__6.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:827][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:829][  0]LogMaterial: Display: Missing cached shader map for material Material__5, compiling. 
+[2018.11.17-05.26.35:830][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__5.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:830][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:834][  0]LogMaterial: Display: Missing cached shader map for material Material__4, compiling. 
+[2018.11.17-05.26.35:834][  0]LogMaterial: Warning: E:\Разработка\Вoundary Tree\Project\The-boundary-tree\MyProject\Content\Menu_Intro\Meshes\TheBook\Material__4.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.26.35:834][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.26.35:881][  0]LogAIModule: Creating AISystem for world Menu_Intro
+[2018.11.17-05.26.36:409][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.17-05.26.36:545][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.17-05.26.36:625][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80,481ms to complete.
+[2018.11.17-05.26.36:626][  0]LogFileHelpers: Loading map 'Menu_Intro' took 3.723
+[2018.11.17-05.26.38:092][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-05.26.38:111][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-05.26.38:122][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-05.26.38:129][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-05.26.38:235][  0]LogCollectionManager: Loaded 0 collections in 0.001029 seconds
+[2018.11.17-05.26.38:471][  0]LogFileCache: Scanning file cache for directory 'E:/Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Collections/' took 0.01s
+[2018.11.17-05.26.38:471][  0]LogFileCache: Scanning file cache for directory 'E:/Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Developers/Денис/Collections/' took 0.01s
+[2018.11.17-05.26.38:471][  0]LogFileCache: Scanning file cache for directory 'E:/Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Collections/' took 0.01s
+[2018.11.17-05.26.38:471][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.17-05.26.38:528][  0]LogContentBrowser: Native class hierarchy populated in 0.0323 seconds. Added 2575 classes and 605 folders.
+[2018.11.17-05.26.38:621][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.17-05.26.40:280][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.17-05.26.40:280][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.17-05.26.40:280][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.17-05.26.40:324][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.17-05.26.41:035][  0]LogSlate: Took 0.012428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.17-05.26.41:058][  0]LogSlate: Took 0.021256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.17-05.26.41:120][  0]LogSlate: Took 0.037210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.17-05.26.41:456][  0]LogRenderer: Reallocating scene render targets to support 1208x628 Format 10 NumSamples 1 (Frame:1).
+[2018.11.17-05.26.42:095][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.17-05.26.42:095][  0]LogLoad: (Engine Initialization) Total time: 92.99 seconds
+[2018.11.17-05.26.42:095][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.17-05.26.42:209][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.17-05.26.42:226][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.26.42:360][  0]LogSlate: Took 0.024646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.17-05.26.42:666][  2]LogAssetRegistry: Asset discovery search completed in 67.3077 seconds
+[2018.11.17-05.26.42:671][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.17-05.26.42:671][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2018.11.17-05.28.47:168][267]LogSlate: Window 'Message Log' being destroyed
+[2018.11.17-05.28.47:214][267]LogSlate: Window 'Message Log' being destroyed
+[2018.11.17-05.30.32:244][937]LogSlate: Took 0.000540 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.17-05.30.32:252][937]LogAssetEditorManager: Opening Asset editor for Material /Game/Menu_Intro/Meshes/TheBook/Material__4.Material__4
+[2018.11.17-05.30.32:283][937]LogMaterial: Display: Missing cached shader map for material Material__4, compiling. 
+[2018.11.17-05.30.32:283][937]LogMaterial: Warning: /Engine/Transient.Material__4 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.30.32:283][937]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.30.33:090][937]LogMaterial: Display: Missing cached shader map for material Material__4, compiling. 
+[2018.11.17-05.30.33:091][937]LogMaterial: Warning: /Engine/Transient.Material__4 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.30.33:091][937]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.30.33:100][937]LogMaterial: Display: Missing cached shader map for material Material__4, compiling. 
+[2018.11.17-05.30.33:101][937]LogMaterial: Warning: /Engine/Transient.Material__4 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.30.33:101][937]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.30.33:130][937]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.17-05.30.33:186][937]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.30.33:225][937]LogSlate: Took 0.009762 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.17-05.30.38:325][ 72]LogSlate: Window 'Stats' being destroyed
+[2018.11.17-05.30.38:347][ 72]LogSlate: Window 'Stats' being destroyed
+[2018.11.17-05.30.41:215][149]LogAssetEditorManager: Opening Asset editor for Material /Game/Menu_Intro/Meshes/TheBook/Material__5.Material__5
+[2018.11.17-05.30.41:220][149]LogMaterial: Display: Missing cached shader map for material Material__5, compiling. 
+[2018.11.17-05.30.41:220][149]LogMaterial: Warning: /Engine/Transient.Material__5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.30.41:220][149]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.30.41:342][149]LogMaterial: Display: Missing cached shader map for material Material__5, compiling. 
+[2018.11.17-05.30.41:342][149]LogMaterial: Warning: /Engine/Transient.Material__5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.30.41:342][149]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.30.41:346][149]LogMaterial: Display: Missing cached shader map for material Material__5, compiling. 
+[2018.11.17-05.30.41:347][149]LogMaterial: Warning: /Engine/Transient.Material__5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.17-05.30.41:347][149]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.30.41:381][149]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.17-05.30.41:431][149]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.11.17-05.30.49:310][376]LogSlate: Window 'Stats' being destroyed
+[2018.11.17-05.30.49:315][376]LogSlate: Window 'Stats' being destroyed
+[2018.11.17-05.31.16:226][295]LogSlate: Window 'Message Log' being destroyed
+[2018.11.17-05.31.16:234][295]LogSlate: Window 'Message Log' being destroyed
+[2018.11.17-05.31.30:075][839]LogSlate: Window 'Message' being destroyed
+[2018.11.17-05.31.30:080][839]LogSlate: Window 'Material__5' being destroyed
+[2018.11.17-05.31.30:081][839]LogSlate: Window 'Material__5' being destroyed
+[2018.11.17-05.31.39:487][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.31.39:593][257]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.17-05.31.39:618][257]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-05.31.39:618][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-05.31.39:679][257]PIE: New page: PIE session: Menu_Intro (18 нояб. 2018 г., 1:31:39)
+[2018.11.17-05.31.39:680][257]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2018.11.17-05.31.39:689][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009648s)
+[2018.11.17-05.31.39:690][257]LogAIModule: Creating AISystem for world Menu_Intro
+[2018.11.17-05.31.39:690][257]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2018.11.17-05.31.39:691][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.011304s)
+[2018.11.17-05.31.39:722][257]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.17-05.31.39:739][257]LogInit: FAudioDevice initialized.
+[2018.11.17-05.31.39:794][257]LogLoad: Game class is 'GameMode_Intro_C'
+[2018.11.17-05.31.39:816][257]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2018.11.17-15.31.39
+[2018.11.17-05.31.39:829][257]LogWorld: Bringing up level for play took: 0.016447
+[2018.11.17-05.31.39:889][257]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.11.17-05.31.39:926][257]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro 0,511
+[2018.11.17-05.31.39:927][257]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-05.31.50:458][884]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.31.56:910][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.32.04:522][600]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-05.32.04:533][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-05.32.04:573][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-05.32.04:574][600]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-05.32.04:619][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-05.32.04:642][601]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.17-05.32.07:128][704]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.17-05.32.07:153][704]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-05.32.07:153][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-05.32.07:153][704]PIE: New page: PIE session: Menu_Intro (18 нояб. 2018 г., 1:32:07)
+[2018.11.17-05.32.07:153][704]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2018.11.17-05.32.07:161][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008108s)
+[2018.11.17-05.32.07:162][704]LogAIModule: Creating AISystem for world Menu_Intro
+[2018.11.17-05.32.07:163][704]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2018.11.17-05.32.07:163][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.009449s)
+[2018.11.17-05.32.07:186][704]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.17-05.32.07:196][704]LogInit: FAudioDevice initialized.
+[2018.11.17-05.32.07:230][704]LogLoad: Game class is 'GameMode_Intro_C'
+[2018.11.17-05.32.07:233][704]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2018.11.17-15.32.07
+[2018.11.17-05.32.07:234][704]LogWorld: Bringing up level for play took: 0.003936
+[2018.11.17-05.32.07:249][704]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro -0,166
+[2018.11.17-05.32.07:249][704]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-05.32.11:995][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.32.12:056][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-05.32.12:056][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-05.32.12:106][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-05.32.12:107][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-05.32.12:138][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-05.32.12:160][947]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.11.17-05.32.17:927][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.32.57:821][941]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Денис\Desktop\Book\Book_table\Book_2.FBX)
+[2018.11.17-05.32.57:939][941]LogFbx: Loading FBX Scene from C:\Users\Денис\Desktop\Book\Book_table\Book_2.FBX
+[2018.11.17-05.32.57:955][941]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.17-05.33.12:936][941]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.17-05.33.13:102][941]LogStaticMesh: Building static mesh Book_2...
+[2018.11.17-05.33.13:125][941]LogStaticMesh: Built static mesh [0.02s] /Game/Menu_Intro/Meshes/TheBook/Table/Book_2.Book_2
+[2018.11.17-05.33.13:196][941]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Денис\Desktop\Book\Book_table\Book_table.FBX)
+[2018.11.17-05.33.15:098][941]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.17-05.33.15:160][941]LogFbx: Loading FBX Scene from C:\Users\Денис\Desktop\Book\Book_table\Book_table.FBX
+[2018.11.17-05.33.15:166][941]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.17-05.33.15:205][941]LogStaticMesh: Building static mesh Book_table...
+[2018.11.17-05.33.15:223][941]LogStaticMesh: Built static mesh [0.02s] /Game/Menu_Intro/Meshes/TheBook/Table/Book_table.Book_table
+[2018.11.17-05.33.15:236][941]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Денис\Desktop\Book\Book_table\Ink_bottle.FBX)
+[2018.11.17-05.33.15:247][941]LogFbx: Loading FBX Scene from C:\Users\Денис\Desktop\Book\Book_table\Ink_bottle.FBX
+[2018.11.17-05.33.15:254][941]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.17-05.33.15:301][941]LogStaticMesh: Building static mesh Ink_bottle...
+[2018.11.17-05.33.15:325][941]LogStaticMesh: Built static mesh [0.02s] /Game/Menu_Intro/Meshes/TheBook/Table/Ink_bottle.Ink_bottle
+[2018.11.17-05.33.15:357][941]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Денис\Desktop\Book\Book_table\Inkwell.FBX)
+[2018.11.17-05.33.15:405][941]LogFbx: Loading FBX Scene from C:\Users\Денис\Desktop\Book\Book_table\Inkwell.FBX
+[2018.11.17-05.33.15:422][941]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.17-05.33.15:555][941]LogStaticMesh: Building static mesh Inkwell...
+[2018.11.17-05.33.15:791][941]LogStaticMesh: Built static mesh [0.24s] /Game/Menu_Intro/Meshes/TheBook/Table/Inkwell.Inkwell
+[2018.11.17-05.33.15:804][941]LogStaticMesh: Warning: Inkwell has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.11.17-05.33.15:804][941]LogStaticMesh: Warning: Inkwell has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.11.17-05.33.15:817][941]FBXImport: Warning: Inkwell has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.11.17-05.33.15:817][941]FBXImport: Warning: Inkwell has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.11.17-05.33.15:847][941]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Денис\Desktop\Book\Book_table\Scroll.FBX)
+[2018.11.17-05.33.15:862][941]LogFbx: Loading FBX Scene from C:\Users\Денис\Desktop\Book\Book_table\Scroll.FBX
+[2018.11.17-05.33.15:870][941]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.17-05.33.15:870][941]LogFbx: Warning: Triangulating static mesh Scroll
+[2018.11.17-05.33.15:891][941]LogStaticMesh: Building static mesh Scroll...
+[2018.11.17-05.33.15:906][941]LogStaticMesh: Built static mesh [0.02s] /Game/Menu_Intro/Meshes/TheBook/Table/Scroll.Scroll
+[2018.11.17-05.33.15:937][941]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Денис\Desktop\Book\Book_table\Stack_of_books.FBX)
+[2018.11.17-05.33.15:988][941]LogFbx: Loading FBX Scene from C:\Users\Денис\Desktop\Book\Book_table\Stack_of_books.FBX
+[2018.11.17-05.33.15:995][941]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.17-05.33.16:000][941]LogStaticMesh: Building static mesh Stack_of_books...
+[2018.11.17-05.33.16:012][941]LogStaticMesh: Built static mesh [0.01s] /Game/Menu_Intro/Meshes/TheBook/Table/Stack_of_books.Stack_of_books
+[2018.11.17-05.33.16:036][941]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Денис\Desktop\Book\Book_table\Book_1.FBX)
+[2018.11.17-05.33.16:047][941]LogFbx: Loading FBX Scene from C:\Users\Денис\Desktop\Book\Book_table\Book_1.FBX
+[2018.11.17-05.33.16:053][941]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.17-05.33.16:085][941]LogStaticMesh: Building static mesh Book_1...
+[2018.11.17-05.33.16:090][941]LogStaticMesh: Built static mesh [0.01s] /Game/Menu_Intro/Meshes/TheBook/Table/Book_1.Book_1
+[2018.11.17-05.33.18:929][ 27]LogSlate: Window 'Message Log' being destroyed
+[2018.11.17-05.33.18:934][ 27]LogSlate: Window 'Message Log' being destroyed
+[2018.11.17-05.33.21:811][131]LogActorFactory: Actor Factory created Book_table
+[2018.11.17-05.33.22:484][160]LogActorFactory: Actor Factory created Book_table
+[2018.11.17-05.33.28:724][421]LogSlate: Took 0.011635 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.17-05.33.33:758][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_table)
+[2018.11.17-05.34.03:596][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.34.04:413][119]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.17-05.34.04:439][119]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-05.34.04:439][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-05.34.04:439][119]PIE: New page: PIE session: Menu_Intro (18 нояб. 2018 г., 1:34:04)
+[2018.11.17-05.34.04:439][119]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2018.11.17-05.34.04:448][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008632s)
+[2018.11.17-05.34.04:448][119]LogAIModule: Creating AISystem for world Menu_Intro
+[2018.11.17-05.34.04:448][119]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2018.11.17-05.34.04:449][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.009670s)
+[2018.11.17-05.34.04:478][119]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.17-05.34.04:487][119]LogInit: FAudioDevice initialized.
+[2018.11.17-05.34.04:522][119]LogLoad: Game class is 'GameMode_Intro_C'
+[2018.11.17-05.34.04:525][119]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2018.11.17-15.34.04
+[2018.11.17-05.34.04:526][119]LogWorld: Bringing up level for play took: 0.003234
+[2018.11.17-05.34.04:539][119]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro -0,879
+[2018.11.17-05.34.04:539][119]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-05.35.00:778][390]LogBlueprintUserMessages: [SlidingBook3] Complete
+[2018.11.17-05.35.05:816][593]LogBlueprintUserMessages: [SlidingBook2_146] Complete
+[2018.11.17-05.35.18:916][123]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.35.19:885][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-05.35.19:886][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-05.35.19:921][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-05.35.19:921][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-05.35.19:944][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-05.35.20:033][164]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.17-05.35.24:650][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_table)
+[2018.11.17-05.35.28:465][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.35.31:181][622]LogActorFactory: Actor Factory created Ink_bottle
+[2018.11.17-05.35.32:746][713]LogActorFactory: Actor Factory created Ink_bottle
+[2018.11.17-05.35.33:499][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.35.36:157][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_table)
+[2018.11.17-05.36.02:501][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.36.02:692][188]LogActorFactory: Actor Factory created Ink_bottle
+[2018.11.17-05.36.04:064][268]LogActorFactory: Actor Factory created Ink_bottle
+[2018.11.17-05.36.04:716][304]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.36.09:224][562]LogActorFactory: Actor Factory created Ink_bottle
+[2018.11.17-05.36.09:864][585]LogActorFactory: Actor Factory created Ink_bottle
+[2018.11.17-05.36.12:150][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.36.13:591][784]EditorErrors: New page: Actor attachment
+[2018.11.17-05.36.41:652][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.36.58:944][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.37.01:633][222]LogActorFactory: Actor Factory created Ink_bottle
+[2018.11.17-05.37.02:482][257]LogActorFactory: Actor Factory created Ink_bottle
+[2018.11.17-05.37.37:450][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ink_bottle)
+[2018.11.17-05.37.55:311][607]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.38.28:069][709]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Menu_Intro_Auto13FB684674F1610F2356D72A811DCD032.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Autosaves/Game/Maps/Menu_Intro_Auto1.umap'
+[2018.11.17-05.38.28:082][709]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu_Intro' took 0.362
+[2018.11.17-05.38.28:082][709]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.362
+[2018.11.17-05.38.28:088][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu_Intro/Meshes/TheBook/Table/Book_2] ([1] browsable assets)...
+[2018.11.17-05.38.28:111][709]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Menu_Intro/Meshes/TheBook/Table/Book_2.Book_2]
+[2018.11.17-05.38.28:111][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu_Intro/Meshes/TheBook/Table/Book_2]
+[2018.11.17-05.38.28:147][709]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Book_2_Auto143B1B3194A00DA645FD8A5A830F8893A.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Autosaves/Game/Menu_Intro/Meshes/TheBook/Table/Book_2_Auto1.uasset'
+[2018.11.17-05.38.28:149][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu_Intro/Meshes/TheBook/Table/Book_table] ([1] browsable assets)...
+[2018.11.17-05.38.28:167][709]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Menu_Intro/Meshes/TheBook/Table/Book_table.Book_table]
+[2018.11.17-05.38.28:167][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu_Intro/Meshes/TheBook/Table/Book_table]
+[2018.11.17-05.38.28:178][709]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Book_table_Auto119E406884612F669E9E9CC8EDDED8DAB.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Autosaves/Game/Menu_Intro/Meshes/TheBook/Table/Book_table_Auto1.uasset'
+[2018.11.17-05.38.28:179][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu_Intro/Meshes/TheBook/Table/Ink_bottle] ([1] browsable assets)...
+[2018.11.17-05.38.28:194][709]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Menu_Intro/Meshes/TheBook/Table/Ink_bottle.Ink_bottle]
+[2018.11.17-05.38.28:195][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu_Intro/Meshes/TheBook/Table/Ink_bottle]
+[2018.11.17-05.38.28:222][709]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Ink_bottle_Auto1AFC836E84518223C49B325AF45BC56F3.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Autosaves/Game/Menu_Intro/Meshes/TheBook/Table/Ink_bottle_Auto1.uasset'
+[2018.11.17-05.38.28:224][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu_Intro/Meshes/TheBook/Table/Inkwell] ([1] browsable assets)...
+[2018.11.17-05.38.28:240][709]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Menu_Intro/Meshes/TheBook/Table/Inkwell.Inkwell]
+[2018.11.17-05.38.28:240][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu_Intro/Meshes/TheBook/Table/Inkwell]
+[2018.11.17-05.38.28:257][709]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Inkwell_Auto12961003E4F7CB3FF07AF84864D53292C.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Autosaves/Game/Menu_Intro/Meshes/TheBook/Table/Inkwell_Auto1.uasset'
+[2018.11.17-05.38.28:259][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu_Intro/Meshes/TheBook/Table/Scroll] ([1] browsable assets)...
+[2018.11.17-05.38.28:275][709]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Menu_Intro/Meshes/TheBook/Table/Scroll.Scroll]
+[2018.11.17-05.38.28:275][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu_Intro/Meshes/TheBook/Table/Scroll]
+[2018.11.17-05.38.28:287][709]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Scroll_Auto169D91D73482BB3632F9217B053FAD8AC.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Autosaves/Game/Menu_Intro/Meshes/TheBook/Table/Scroll_Auto1.uasset'
+[2018.11.17-05.38.28:290][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu_Intro/Meshes/TheBook/Table/Stack_of_books] ([1] browsable assets)...
+[2018.11.17-05.38.28:305][709]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Menu_Intro/Meshes/TheBook/Table/Stack_of_books.Stack_of_books]
+[2018.11.17-05.38.28:305][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu_Intro/Meshes/TheBook/Table/Stack_of_books]
+[2018.11.17-05.38.28:315][709]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Stack_of_books_Auto12F7DEA2445B1C3F96630139E38581FFE.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Autosaves/Game/Menu_Intro/Meshes/TheBook/Table/Stack_of_books_Auto1.uasset'
+[2018.11.17-05.38.28:316][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu_Intro/Meshes/TheBook/Table/Book_1] ([1] browsable assets)...
+[2018.11.17-05.38.28:332][709]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Menu_Intro/Meshes/TheBook/Table/Book_1.Book_1]
+[2018.11.17-05.38.28:332][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu_Intro/Meshes/TheBook/Table/Book_1]
+[2018.11.17-05.38.28:343][709]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Book_1_Auto179E5E4F043A1F8E20B422EA3A02A9BDE.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Autosaves/Game/Menu_Intro/Meshes/TheBook/Table/Book_1_Auto1.uasset'
+[2018.11.17-05.38.28:344][709]LogFileHelpers: Auto-saving content packages took 0.257
+[2018.11.17-05.38.51:456][925]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ink_bottle2)
+[2018.11.17-05.39.15:173][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.39.25:877][116]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.39.31:036][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.39.34:021][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.39.40:648][884]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.39.49:855][205]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.39.59:536][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ink_bottle)
+[2018.11.17-05.40.00:788][725]Cmd: TRANSACTION UNDO
+[2018.11.17-05.40.00:788][725]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.17-05.40.17:422][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ink_bottle)
+[2018.11.17-05.40.46:784][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ink_bottle2)
+[2018.11.17-05.40.53:255][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ink_bottle)
+[2018.11.17-05.40.59:814][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.41.02:691][448]Cmd: MODE GRID=0
+[2018.11.17-05.41.05:392][565]Cmd: MODE GRID=1
+[2018.11.17-05.41.36:483][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_table)
+[2018.11.17-05.41.41:777][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.41.41:998][260]LogActorFactory: Actor Factory created Inkwell
+[2018.11.17-05.41.42:337][277]LogActorFactory: Actor Factory created Inkwell
+[2018.11.17-05.41.43:973][334]LogActorFactory: Actor Factory created Inkwell
+[2018.11.17-05.41.45:607][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.41.56:969][892]EditorErrors: New page: Actor attachment
+[2018.11.17-05.42.33:048][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.42.40:973][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.42.50:648][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.42.59:459][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.43.04:928][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.43.20:828][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.43.24:095][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_table)
+[2018.11.17-05.43.24:955][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Inkwell)
+[2018.11.17-05.43.38:376][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Inkwell)
+[2018.11.17-05.43.39:092][244]Cmd: DUPLICATE
+[2018.11.17-05.43.39:092][244]Cmd: ACTOR DUPLICATE
+[2018.11.17-05.43.40:865][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Inkwell2)
+[2018.11.17-05.43.53:156][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Inkwell)
+[2018.11.17-05.44.00:153][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Inkwell2)
+[2018.11.17-05.44.13:477][812]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Inkwell)
+[2018.11.17-05.44.15:010][871]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Inkwell2)
+[2018.11.17-05.44.32:693][600]LogEditorViewport: Clicking Background
+[2018.11.17-05.45.02:203][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Inkwell2)
+[2018.11.17-05.45.05:025][790]Cmd: DUPLICATE
+[2018.11.17-05.45.05:025][790]Cmd: ACTOR DUPLICATE
+[2018.11.17-05.45.38:548][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.45.45:710][513]EditorErrors: New page: Actor attachment
+[2018.11.17-05.45.57:631][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.46.03:448][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.46.03:596][255]LogActorFactory: Actor Factory created Book_1
+[2018.11.17-05.46.04:281][276]LogActorFactory: Actor Factory created Book_1
+[2018.11.17-05.47.08:435][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.47.09:162][137]LogActorFactory: Actor Factory created Book_2
+[2018.11.17-05.47.10:102][171]LogActorFactory: Actor Factory created Book_2
+[2018.11.17-05.47.54:966][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.48.02:248][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_1)
+[2018.11.17-05.48.04:298][ 90]Cmd: DUPLICATE
+[2018.11.17-05.48.04:299][ 90]Cmd: ACTOR DUPLICATE
+[2018.11.17-05.48.12:398][460]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Book_1)
+[2018.11.17-05.48.13:327][499]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Book_3)
+[2018.11.17-05.48.13:967][527]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Book_2)
+[2018.11.17-05.48.33:918][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_3)
+[2018.11.17-05.48.34:660][459]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Book_1)
+[2018.11.17-05.48.38:616][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_3)
+[2018.11.17-05.48.39:299][674]Cmd: DUPLICATE
+[2018.11.17-05.48.39:299][674]Cmd: ACTOR DUPLICATE
+[2018.11.17-05.49.15:735][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.49.31:954][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.50.01:287][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.50.16:324][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.50.34:852][422]Cmd: DUPLICATE
+[2018.11.17-05.50.34:852][422]Cmd: ACTOR DUPLICATE
+[2018.11.17-05.51.01:769][662]Cmd: TRANSACTION UNDO
+[2018.11.17-05.51.01:769][662]LogEditorTransaction: Undo Rotate Actors
+[2018.11.17-05.51.02:004][671]Cmd: TRANSACTION UNDO
+[2018.11.17-05.51.02:004][671]LogEditorTransaction: Undo Rotate Actors
+[2018.11.17-05.51.02:519][685]Cmd: TRANSACTION UNDO
+[2018.11.17-05.51.02:520][685]LogEditorTransaction: Undo Rotate Actors
+[2018.11.17-05.51.23:409][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.52.06:786][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_4)
+[2018.11.17-05.52.30:989][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.52.45:956][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_5)
+[2018.11.17-05.53.02:340][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.53.14:304][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_5)
+[2018.11.17-05.53.20:674][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.53.50:954][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_5)
+[2018.11.17-05.53.56:491][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.54.26:870][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.54.31:156][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_5)
+[2018.11.17-05.54.34:482][356]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Book_4)
+[2018.11.17-05.54.34:956][374]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Book_2)
+[2018.11.17-05.54.35:740][406]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Book_1)
+[2018.11.17-05.54.36:338][432]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Book_3)
+[2018.11.17-05.54.38:426][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.54.43:474][740]EditorErrors: New page: Actor attachment
+[2018.11.17-05.54.50:597][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.54.50:759][ 50]LogActorFactory: Actor Factory created Stack_of_books
+[2018.11.17-05.54.51:942][ 94]LogActorFactory: Actor Factory created Stack_of_books
+[2018.11.17-05.54.55:508][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.54.57:788][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stack_of_books)
+[2018.11.17-05.55.00:775][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.55.06:589][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.55.07:557][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stack_of_books)
+[2018.11.17-05.55.27:068][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stack_of_books)
+[2018.11.17-05.55.35:890][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_table)
+[2018.11.17-05.55.43:500][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stack_of_books)
+[2018.11.17-05.55.58:273][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stack_of_books)
+[2018.11.17-05.56.56:745][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.57.02:993][799]EditorErrors: New page: Actor attachment
+[2018.11.17-05.57.06:053][918]LogActorFactory: Actor Factory created Scroll
+[2018.11.17-05.57.07:043][947]LogActorFactory: Actor Factory created Scroll
+[2018.11.17-05.58.10:201][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.58.29:770][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-05.58.38:352][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll)
+[2018.11.17-05.58.52:198][901]Cmd: DUPLICATE
+[2018.11.17-05.58.52:198][901]Cmd: ACTOR DUPLICATE
+[2018.11.17-05.59.28:529][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_table)
+[2018.11.17-05.59.36:847][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_2)
+[2018.11.17-05.59.37:576][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll)
+[2018.11.17-05.59.40:095][976]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll2)
+[2018.11.17-05.59.41:749][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-05.59.44:113][157]EditorErrors: New page: Actor attachment
+[2018.11.17-05.59.46:580][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_table)
+[2018.11.17-05.59.51:880][482]Cmd: TRANSACTION UNDO
+[2018.11.17-05.59.51:881][482]LogEditorTransaction: Undo Move Actors
+[2018.11.17-05.59.53:764][540]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-06.00.01:611][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll2)
+[2018.11.17-06.00.02:596][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll)
+[2018.11.17-06.00.04:110][ 76]Cmd: DUPLICATE
+[2018.11.17-06.00.04:110][ 76]Cmd: ACTOR DUPLICATE
+[2018.11.17-06.00.10:519][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.00.54:796][520]Cmd: TRANSACTION UNDO
+[2018.11.17-06.00.54:796][520]LogEditorTransaction: Undo Move Actors
+[2018.11.17-06.01.01:948][872]Cmd: DUPLICATE
+[2018.11.17-06.01.01:948][872]Cmd: ACTOR DUPLICATE
+[2018.11.17-06.01.31:338][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll4)
+[2018.11.17-06.01.33:168][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.02.14:094][322]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll3)
+[2018.11.17-06.02.18:333][554]Cmd: TRANSACTION UNDO
+[2018.11.17-06.02.18:334][554]LogEditorTransaction: Undo Move Actors
+[2018.11.17-06.02.18:835][569]Cmd: TRANSACTION UNDO
+[2018.11.17-06.02.18:835][569]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.17-06.02.20:219][640]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll3)
+[2018.11.17-06.02.21:400][702]Cmd: DUPLICATE
+[2018.11.17-06.02.21:400][702]Cmd: ACTOR DUPLICATE
+[2018.11.17-06.02.37:786][583]Cmd: DUPLICATE
+[2018.11.17-06.02.37:787][583]Cmd: ACTOR DUPLICATE
+[2018.11.17-06.02.49:652][ 92]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll5)
+[2018.11.17-06.02.50:393][119]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll6)
+[2018.11.17-06.02.53:900][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll6)
+[2018.11.17-06.02.54:470][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll5)
+[2018.11.17-06.02.55:015][349]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll6)
+[2018.11.17-06.02.55:915][394]Cmd: TRANSACTION UNDO
+[2018.11.17-06.02.55:915][394]LogEditorTransaction: Undo Move Actors
+[2018.11.17-06.02.57:803][472]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll6)
+[2018.11.17-06.02.58:226][487]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll5)
+[2018.11.17-06.03.07:235][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll8)
+[2018.11.17-06.03.08:181][  6]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll7)
+[2018.11.17-06.03.14:911][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll5)
+[2018.11.17-06.03.16:015][407]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll6)
+[2018.11.17-06.03.21:026][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_table)
+[2018.11.17-06.03.29:805][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll3)
+[2018.11.17-06.03.30:400][142]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll4)
+[2018.11.17-06.03.30:945][165]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll6)
+[2018.11.17-06.03.31:602][197]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll5)
+[2018.11.17-06.03.32:077][219]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll7)
+[2018.11.17-06.03.32:668][247]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll8)
+[2018.11.17-06.03.35:868][395]Cmd: TRANSACTION UNDO
+[2018.11.17-06.03.35:868][395]LogEditorTransaction: Undo Move Actors
+[2018.11.17-06.03.35:877][395]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Scroll5.StaticMeshComponent0) Component already registered.
+[2018.11.17-06.03.37:436][465]Cmd: DUPLICATE
+[2018.11.17-06.03.37:436][465]Cmd: ACTOR DUPLICATE
+[2018.11.17-06.04.00:340][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.04.02:902][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll11)
+[2018.11.17-06.04.03:499][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll9)
+[2018.11.17-06.04.09:504][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.04.26:500][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.04.42:291][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll10)
+[2018.11.17-06.04.44:636][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll9)
+[2018.11.17-06.04.45:922][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.04.47:408][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll10)
+[2018.11.17-06.04.49:072][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.04.54:666][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll9)
+[2018.11.17-06.04.55:736][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_table)
+[2018.11.17-06.04.56:683][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll10)
+[2018.11.17-06.05.02:573][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll11)
+[2018.11.17-06.05.07:838][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll9)
+[2018.11.17-06.05.11:383][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll11)
+[2018.11.17-06.05.15:325][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.05.37:584][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll12)
+[2018.11.17-06.05.40:434][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll13)
+[2018.11.17-06.05.43:035][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll14)
+[2018.11.17-06.05.48:313][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-06.05.50:506][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_table)
+[2018.11.17-06.06.04:313][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll13)
+[2018.11.17-06.06.05:039][451]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll14)
+[2018.11.17-06.06.19:093][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll10)
+[2018.11.17-06.06.20:105][113]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll9)
+[2018.11.17-06.06.20:889][146]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll11)
+[2018.11.17-06.06.21:546][172]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll12)
+[2018.11.17-06.06.22:223][199]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll14)
+[2018.11.17-06.06.22:710][217]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Scroll13)
+[2018.11.17-06.06.36:953][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll13)
+[2018.11.17-06.06.38:188][894]Cmd: DELETE
+[2018.11.17-06.06.38:188][894]Cmd: ACTOR DELETE
+[2018.11.17-06.06.38:214][894]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.17-06.06.38:236][894]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.11.17-06.06.38:923][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scroll14)
+[2018.11.17-06.06.41:856][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_table)
+[2018.11.17-06.07.27:757][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.07.27:840][919]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.17-06.07.27:866][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-06.07.27:866][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-06.07.27:866][919]PIE: New page: PIE session: Menu_Intro (18 нояб. 2018 г., 2:07:27)
+[2018.11.17-06.07.27:867][919]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2018.11.17-06.07.27:877][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010540s)
+[2018.11.17-06.07.27:878][919]LogAIModule: Creating AISystem for world Menu_Intro
+[2018.11.17-06.07.27:878][919]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2018.11.17-06.07.27:878][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.011688s)
+[2018.11.17-06.07.27:910][919]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.17-06.07.27:936][919]LogInit: FAudioDevice initialized.
+[2018.11.17-06.07.27:973][919]LogLoad: Game class is 'GameMode_Intro_C'
+[2018.11.17-06.07.27:984][919]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2018.11.17-16.07.27
+[2018.11.17-06.07.27:985][919]LogWorld: Bringing up level for play took: 0.008987
+[2018.11.17-06.07.28:009][919]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro 0,561
+[2018.11.17-06.07.28:009][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-06.07.38:458][532]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-06.07.38:458][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-06.07.38:493][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-06.07.38:493][532]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-06.07.38:522][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-06.07.38:573][534]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.11.17-06.08.05:275][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.08.34:682][260]LogEditorViewport: Clicking on Actor (LMB): SlidingBook_C (SlidingBook2)
+[2018.11.17-06.08.35:874][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.08.35:975][304]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.17-06.08.36:002][304]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-06.08.36:002][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-06.08.36:002][304]PIE: New page: PIE session: Menu_Intro (18 нояб. 2018 г., 2:08:36)
+[2018.11.17-06.08.36:002][304]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2018.11.17-06.08.36:013][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010363s)
+[2018.11.17-06.08.36:013][304]LogAIModule: Creating AISystem for world Menu_Intro
+[2018.11.17-06.08.36:014][304]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2018.11.17-06.08.36:014][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.011517s)
+[2018.11.17-06.08.36:033][304]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.17-06.08.36:044][304]LogInit: FAudioDevice initialized.
+[2018.11.17-06.08.36:077][304]LogLoad: Game class is 'GameMode_Intro_C'
+[2018.11.17-06.08.36:082][304]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2018.11.17-16.08.36
+[2018.11.17-06.08.36:083][304]LogWorld: Bringing up level for play took: 0.004993
+[2018.11.17-06.08.36:097][304]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro 0,649
+[2018.11.17-06.08.36:098][304]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-06.08.42:008][658]LogBlueprintUserMessages: [SlidingBook3] Complete
+[2018.11.17-06.08.45:050][841]LogBlueprintUserMessages: [SlidingBook2_146] Complete
+[2018.11.17-06.08.46:269][916]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-06.08.46:269][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-06.08.46:324][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-06.08.46:324][916]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-06.08.46:349][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-06.08.46:379][917]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.11.17-06.08.55:943][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shelf_1_Book_2_13)
+[2018.11.17-06.08.59:169][539]Cmd: DELETE
+[2018.11.17-06.08.59:169][539]Cmd: ACTOR DELETE
+[2018.11.17-06.08.59:174][539]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.17-06.08.59:200][539]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.11.17-06.09.30:827][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.09.34:142][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.10.00:944][276]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-06.10.01:267][276]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Menu_Intro_Auto22CAB84BC404645107C889C9DD98ACD4E.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Autosaves/Game/Maps/Menu_Intro_Auto2.umap'
+[2018.11.17-06.10.01:269][276]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu_Intro' took 0.260
+[2018.11.17-06.10.01:269][276]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.260
+[2018.11.17-06.12.11:379][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.12.16:128][340]LogActorFactory: Actor Factory created lamp__1__Cylinder008
+[2018.11.17-06.12.17:451][394]LogActorFactory: Actor Factory created lamp__1__Cylinder008
+[2018.11.17-06.12.18:963][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.12.19:197][446]LogActorFactory: Actor Factory created lamp__1__Tube001
+[2018.11.17-06.12.21:059][504]LogActorFactory: Actor Factory created lamp__1__Tube001
+[2018.11.17-06.12.21:834][528]LogActorFactory: Actor Factory created lamp__1__Tube001
+[2018.11.17-06.12.25:596][681]Cmd: TRANSACTION UNDO
+[2018.11.17-06.12.25:596][681]LogEditorTransaction: Undo Move Actors
+[2018.11.17-06.12.25:847][689]Cmd: TRANSACTION UNDO
+[2018.11.17-06.12.25:847][689]LogEditorTransaction: Undo Create Actors
+[2018.11.17-06.12.26:314][699]Cmd: TRANSACTION UNDO
+[2018.11.17-06.12.26:314][699]LogEditorTransaction: Undo Create Actors
+[2018.11.17-06.12.27:631][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.12.28:263][753]LogActorFactory: Actor Factory created lamp__1__Tube001
+[2018.11.17-06.12.28:264][753]LogActorFactory: Actor Factory created lamp__1__Cylinder008
+[2018.11.17-06.12.29:226][781]LogActorFactory: Actor Factory created lamp__1__Tube001
+[2018.11.17-06.12.29:246][781]LogActorFactory: Actor Factory created lamp__1__Cylinder008
+[2018.11.17-06.14.48:066][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-06.14.48:150][575]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.17-06.14.48:177][575]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-06.14.48:177][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-06.14.48:177][575]PIE: New page: PIE session: Menu_Intro (18 нояб. 2018 г., 2:14:48)
+[2018.11.17-06.14.48:177][575]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2018.11.17-06.14.48:188][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010576s)
+[2018.11.17-06.14.48:189][575]LogAIModule: Creating AISystem for world Menu_Intro
+[2018.11.17-06.14.48:189][575]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2018.11.17-06.14.48:189][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.011744s)
+[2018.11.17-06.14.48:210][575]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.17-06.14.48:223][575]LogInit: FAudioDevice initialized.
+[2018.11.17-06.14.48:252][575]LogLoad: Game class is 'GameMode_Intro_C'
+[2018.11.17-06.14.48:257][575]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2018.11.17-16.14.48
+[2018.11.17-06.14.48:257][575]LogWorld: Bringing up level for play took: 0.004374
+[2018.11.17-06.14.48:271][575]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro 0,816
+[2018.11.17-06.14.48:271][575]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-06.14.55:553][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-06.14.55:553][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-06.14.55:589][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-06.14.55:589][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2018.11.17-06.14.55:612][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-06.14.55:670][996]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.11.17-06.20.09:292][484]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Menu_Intro_Auto34CFF13644BD88F485BA7E3A8385F3353.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Autosaves/Game/Maps/Menu_Intro_Auto3.umap'
+[2018.11.17-06.20.09:296][484]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu_Intro' took 0.217
+[2018.11.17-06.20.09:296][484]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.217
+[2018.11.17-06.27.59:882][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-06.28.10:023][134]LogSlate: Window 'Save Content' being destroyed
+[2018.11.17-06.28.13:089][460]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Menu_IntroEDD45D0A4CE67F69F37CF9911E18FC48.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Maps/Menu_Intro.umap'
+[2018.11.17-06.28.13:137][460]LogFileHelpers: Saving map 'Menu_Intro' took 0.323
+[2018.11.17-06.28.13:145][460]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Book_2FF11C1C94B554487325417B65AEE43BF.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Table/Book_2.uasset'
+[2018.11.17-06.28.13:154][460]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Book_table41156BA843DB4EB4B35650AE6DDA8595.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Table/Book_table.uasset'
+[2018.11.17-06.28.13:170][460]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Ink_bottleF483F00646309168DF756598A625E1D1.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Table/Ink_bottle.uasset'
+[2018.11.17-06.28.13:178][460]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/InkwellCE901A034D92263AEB8078ADFF4DF4BA.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Table/Inkwell.uasset'
+[2018.11.17-06.28.13:184][460]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/ScrollBE640776424DF064E8ED51B799CAC8F4.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Table/Scroll.uasset'
+[2018.11.17-06.28.13:192][460]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Stack_of_books1F5FF60D4AD6DFF80B64F18163980B53.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Table/Stack_of_books.uasset'
+[2018.11.17-06.28.13:200][460]LogSavePackage: Moving '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Saved/Book_140DFC9EF4D365F50433B85A82EF0F0E3.tmp' to '../../../../../Разработка/Вoundary Tree/Project/The-boundary-tree/MyProject/Content/Menu_Intro/Meshes/TheBook/Table/Book_1.uasset'
+[2018.11.17-06.28.14:977][652]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2018.11.17-06.28.15:191][653]Cmd: QUIT_EDITOR
+[2018.11.17-06.28.15:278][653]LogExit: Preparing to exit.
+[2018.11.17-06.28.16:472][653]LogExit: Editor shut down
+[2018.11.17-06.28.16:473][653]LogExit: Transaction tracking system shut down
+[2018.11.17-06.28.17:407][653]LogExit: Object subsystem successfully closed.
+[2018.11.17-06.28.17:439][653]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.17-06.28.17:442][653]LogD3D11RHI: Shutdown
+[2018.11.17-06.28.17:442][653]LogD3D11RHI: CleanupD3DDevice
+[2018.11.17-06.28.17:454][653]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.17-06.28.17:713][653]LogModuleManager: Shutting down and abandoning module MeshBuilder (618)
+[2018.11.17-06.28.17:713][653]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.11.17-06.28.17:713][653]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.11.17-06.28.17:713][653]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.11.17-06.28.17:713][653]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.11.17-06.28.17:713][653]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.11.17-06.28.17:714][653]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.11.17-06.28.17:714][653]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.11.17-06.28.17:714][653]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.11.17-06.28.17:722][653]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2018.11.17-06.28.17:722][653]LogModuleManager: Shutting down and abandoning module FoliageEdit (598)
+[2018.11.17-06.28.17:722][653]LogModuleManager: Shutting down and abandoning module LandscapeEditor (596)
+[2018.11.17-06.28.17:732][653]LogModuleManager: Shutting down and abandoning module MeshPaintMode (594)
+[2018.11.17-06.28.17:732][653]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (592)
+[2018.11.17-06.28.17:732][653]LogModuleManager: Shutting down and abandoning module ActorPickerMode (590)
+[2018.11.17-06.28.17:732][653]LogModuleManager: Shutting down and abandoning module GeometryMode (588)
+[2018.11.17-06.28.17:732][653]LogModuleManager: Shutting down and abandoning module TextureAlignMode (586)
+[2018.11.17-06.28.17:732][653]LogModuleManager: Shutting down and abandoning module BspMode (584)
+[2018.11.17-06.28.17:732][653]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (582)
+[2018.11.17-06.28.17:732][653]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (580)
+[2018.11.17-06.28.17:732][653]LogModuleManager: Shutting down and abandoning module AutomationWorker (578)
+[2018.11.17-06.28.17:732][653]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2018.11.17-06.28.17:732][653]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2018.11.17-06.28.17:732][653]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2018.11.17-06.28.17:732][653]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2018.11.17-06.28.17:738][653]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2018.11.17-06.28.17:752][653]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2018.11.17-06.28.17:758][653]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2018.11.17-06.28.17:758][653]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2018.11.17-06.28.17:759][653]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2018.11.17-06.28.17:759][653]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2018.11.17-06.28.17:759][653]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2018.11.17-06.28.17:759][653]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2018.11.17-06.28.17:759][653]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2018.11.17-06.28.17:759][653]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2018.11.17-06.28.18:274][653]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2018.11.17-06.28.18:274][653]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2018.11.17-06.28.18:274][653]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2018.11.17-06.28.18:274][653]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2018.11.17-06.28.18:274][653]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.11.17-06.28.18:285][653]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.11.17-06.28.18:285][653]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.11.17-06.28.18:292][653]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.11.17-06.28.18:293][653]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.11.17-06.28.18:293][653]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.11.17-06.28.18:293][653]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.11.17-06.28.18:293][653]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.11.17-06.28.18:293][653]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.11.17-06.28.18:293][653]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.11.17-06.28.18:293][653]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.11.17-06.28.18:293][653]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.11.17-06.28.18:293][653]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.11.17-06.28.18:293][653]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.11.17-06.28.18:302][653]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.11.17-06.28.18:302][653]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.11.17-06.28.18:309][653]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.11.17-06.28.18:309][653]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.11.17-06.28.18:349][653]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.11.17-06.28.18:349][653]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.11.17-06.28.18:366][653]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.11.17-06.28.18:384][653]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.11.17-06.28.18:384][653]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.11.17-06.28.18:384][653]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.11.17-06.28.18:384][653]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.11.17-06.28.18:393][653]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.11.17-06.28.18:393][653]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.11.17-06.28.18:393][653]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.11.17-06.28.18:401][653]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.11.17-06.28.18:401][653]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.11.17-06.28.18:401][653]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.11.17-06.28.18:401][653]LogModuleManager: Shutting down and abandoning module DesktopPlatform (439)
+[2018.11.17-06.28.18:409][653]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.11.17-06.28.18:419][653]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.11.17-06.28.18:419][653]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.11.17-06.28.18:419][653]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.11.17-06.28.18:431][653]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.11.17-06.28.18:431][653]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.11.17-06.28.18:432][653]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.11.17-06.28.18:432][653]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.11.17-06.28.18:432][653]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.11.17-06.28.18:432][653]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.11.17-06.28.18:432][653]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.11.17-06.28.18:432][653]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.11.17-06.28.18:432][653]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.11.17-06.28.18:432][653]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.11.17-06.28.18:432][653]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.11.17-06.28.18:432][653]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.11.17-06.28.18:432][653]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.11.17-06.28.18:432][653]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2018.11.17-06.28.18:477][653]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2018.11.17-06.28.18:477][653]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.11.17-06.28.18:477][653]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.11.17-06.28.18:477][653]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.11.17-06.28.18:477][653]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.11.17-06.28.18:477][653]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.11.17-06.28.18:477][653]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.11.17-06.28.18:477][653]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.11.17-06.28.18:477][653]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.11.17-06.28.18:477][653]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.11.17-06.28.18:477][653]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.11.17-06.28.18:477][653]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.11.17-06.28.18:477][653]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.11.17-06.28.18:477][653]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.11.17-06.28.18:487][653]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2018.11.17-06.28.18:487][653]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.11.17-06.28.18:487][653]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.11.17-06.28.18:487][653]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.11.17-06.28.18:496][653]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.11.17-06.28.18:496][653]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.11.17-06.28.18:496][653]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.11.17-06.28.18:496][653]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.11.17-06.28.18:496][653]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.11.17-06.28.18:496][653]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.11.17-06.28.18:496][653]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.11.17-06.28.18:496][653]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.11.17-06.28.18:496][653]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.11.17-06.28.18:496][653]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.11.17-06.28.18:496][653]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2018.11.17-06.28.18:496][653]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2018.11.17-06.28.18:496][653]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.11.17-06.28.18:496][653]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.11.17-06.28.18:502][653]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.11.17-06.28.18:508][653]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.11.17-06.28.18:509][653]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.11.17-06.28.18:509][653]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.11.17-06.28.18:509][653]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.11.17-06.28.18:509][653]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.11.17-06.28.18:509][653]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.11.17-06.28.18:509][653]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.11.17-06.28.18:509][653]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.11.17-06.28.18:509][653]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.11.17-06.28.18:517][653]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.11.17-06.28.18:517][653]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.11.17-06.28.18:517][653]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.11.17-06.28.18:517][653]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2018.11.17-06.28.18:517][653]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2018.11.17-06.28.18:517][653]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2018.11.17-06.28.18:517][653]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2018.11.17-06.28.18:528][653]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2018.11.17-06.28.18:528][653]LogModuleManager: Shutting down and abandoning module MyProject (300)
+[2018.11.17-06.28.18:528][653]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.17-06.28.18:528][653]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.17-06.28.18:528][653]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.17-06.28.18:528][653]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.17-06.28.18:528][653]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.17-06.28.18:528][653]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.17-06.28.18:528][653]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.17-06.28.18:528][653]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.17-06.28.18:528][653]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.17-06.28.18:628][653]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.17-06.28.18:728][653]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.17-06.28.18:728][653]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.17-06.28.18:728][653]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.17-06.28.18:728][653]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.17-06.28.18:728][653]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.17-06.28.18:728][653]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.17-06.28.18:737][653]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.17-06.28.18:738][653]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.17-06.28.18:738][653]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.17-06.28.18:739][653]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.17-06.28.18:739][653]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.17-06.28.18:739][653]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.17-06.28.18:741][653]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.17-06.28.18:741][653]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.17-06.28.18:741][653]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.17-06.28.18:741][653]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.17-06.28.18:741][653]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.17-06.28.18:741][653]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.17-06.28.18:752][653]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.17-06.28.18:757][653]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.17-06.28.18:757][653]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.17-06.28.18:757][653]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.17-06.28.18:776][653]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.17-06.28.18:776][653]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.17-06.28.18:776][653]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.17-06.28.18:776][653]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.17-06.28.18:777][653]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.17-06.28.18:782][653]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.17-06.28.18:782][653]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.17-06.28.18:785][653]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.17-06.28.18:785][653]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.17-06.28.18:785][653]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.17-06.28.18:785][653]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.17-06.28.18:786][653]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.17-06.28.18:799][653]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.17-06.28.18:808][653]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.17-06.28.18:808][653]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.17-06.28.18:814][653]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.17-06.28.18:814][653]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.17-06.28.18:817][653]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.17-06.28.18:817][653]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.17-06.28.18:817][653]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.17-06.28.18:817][653]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.17-06.28.18:817][653]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.17-06.28.18:817][653]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.17-06.28.18:817][653]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.17-06.28.18:817][653]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.17-06.28.18:817][653]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.17-06.28.18:817][653]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.17-06.28.18:817][653]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.17-06.28.18:818][653]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.17-06.28.18:823][653]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.17-06.28.18:839][653]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.17-06.28.18:839][653]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.17-06.28.18:850][653]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.17-06.28.18:860][653]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.17-06.28.18:860][653]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.17-06.28.18:877][653]LogDerivedDataCache: Shutdown
+[2018.11.17-06.28.18:877][653]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.17-06.28.18:877][653]LogXGEController: Cleaning working directory: C:/Users/Денис/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.17-06.28.18:877][653]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.17-06.28.18:877][653]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.17-06.28.18:877][653]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.17-06.28.18:877][653]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.17-06.28.18:885][653]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.17-06.28.18:885][653]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.17-06.28.18:887][653]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.17-06.28.18:888][653]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.17-06.28.18:888][653]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.17-06.28.18:889][653]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.17-06.28.18:889][653]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.17-06.28.18:894][653]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.17-06.28.18:895][653]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.17-06.28.18:895][653]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.17-06.28.18:951][653]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.17-06.28.18:951][653]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.17-06.28.18:951][653]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC68F921C-4ADF-1CAB-CB91-79AE9E71704F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=9f79db38496b9fbe0197d8a795b22eff%7C1e4dcad5bf8a4928a83777649e9d7e97%7Cae56abf4-e76d-4116-b479-ba6dfb6d4755&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.17-06.28.18:980][653]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.17-06.28.18:981][653]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.17-06.28.18:981][653]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.17-06.28.18:981][653]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.17-06.28.18:981][653]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.17-06.28.18:981][653]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.17-06.28.18:981][653]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.17-06.28.18:981][653]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.17-06.28.18:981][653]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.17-06.28.18:981][653]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.17-06.28.18:981][653]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.17-06.28.18:981][653]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.17-06.28.18:981][653]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.17-06.28.19:005][653]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.17-06.28.19:005][653]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.17-06.28.19:012][653]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.17-06.28.19:013][653]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.17-06.28.19:013][653]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.17-06.28.19:013][653]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.17-06.28.19:025][653]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.17-06.28.19:034][653]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.17-06.28.19:034][653]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.17-06.28.19:034][653]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.17-06.28.19:035][653]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.17-06.28.19:035][653]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.17-06.28.19:035][653]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.17-06.28.19:035][653]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.17-06.28.19:035][653]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.17-06.28.19:035][653]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.17-06.28.19:035][653]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.17-06.28.19:037][653]LogExit: Exiting.
+[2018.11.17-06.28.19:062][653]Log file closed, 11/17/18 16:28:19
