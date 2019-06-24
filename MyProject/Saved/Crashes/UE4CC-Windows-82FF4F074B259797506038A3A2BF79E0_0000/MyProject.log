@@ -1,0 +1,752 @@
+﻿Log file open, 01/03/19 12:46:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 8.444819
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.353s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: A:/Work/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.027s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.03-02.47.02:203][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.03-02.47.02:206][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.03-02.47.02:257][  0]LogHAL: Display: Platform has ~ 16 GB [17143365632 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.03-02.47.02:269][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.03-02.47.02:281][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.03-02.47.02:334][  0]LogInit: Computer: DESKTOP-CACG351
+[2019.01.03-02.47.02:334][  0]LogInit: User: justf
+[2019.01.03-02.47.02:334][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.03-02.47.02:334][  0]LogInit: High frequency timer resolution =3.421876 MHz
+[2019.01.03-02.47.02:334][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.01.03-02.47.02:334][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.03-02.47.02:334][  0]LogMemory: Process Physical Memory: 101.66 MB used, 101.66 MB peak
+[2019.01.03-02.47.02:334][  0]LogMemory: Process Virtual Memory: 100.24 MB used, 100.24 MB peak
+[2019.01.03-02.47.02:334][  0]LogMemory: Physical Memory: 6167.86 MB used,  10181.32 MB free, 16349.19 MB total
+[2019.01.03-02.47.02:334][  0]LogMemory: Virtual Memory: 4636.59 MB used,  10181.32 MB free, 134217728.00 MB total
+[2019.01.03-02.47.03:835][  0]LogInit: Using OS detected language (ru-RU).
+[2019.01.03-02.47.03:835][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.01.03-02.47.03:917][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.01.03-02.47.04:551][  0]LogStreaming: Display: Took  0.693s to InitEngineTextLocalization.
+[2019.01.03-02.47.04:562][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.03-02.47.05:659][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.03-02.47.05:659][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.03-02.47.14:206][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.03-02.47.14:206][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.03-02.47.14:258][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.01.03-02.47.14:258][  0]LogD3D11RHI:       4018/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.03-02.47.14:260][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.03-02.47.14:260][  0]LogD3D11RHI:       0/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.03-02.47.14:260][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.03-02.47.14:301][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.03-02.47.14:301][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.03-02.47.14:311][  0]LogWindows: EnumDisplayDevices:
+[2019.01.03-02.47.14:311][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.01.03-02.47.14:311][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2019.01.03-02.47.14:311][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.01.03-02.47.14:311][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.01.03-02.47.14:311][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.03-02.47.14:311][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.01.03-02.47.14:328][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2019.01.03-02.47.14:328][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2019.01.03-02.47.14:328][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.01.03-02.47.14:470][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.03-02.47.14:794][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.03-02.47.14:926][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../The-boundary-tree/MyProject/Intermediate/Shaders/WorkingDirectory/6720/).
+[2019.01.03-02.47.14:926][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/justf/AppData/Local/Temp/UnrealShaderWorkingDir/D4563D1C4F97EF2842136AB723CB325D/'.
+[2019.01.03-02.47.16:784][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.03-02.47.16:831][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.03-02.47.16:853][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.03-02.47.16:872][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.03-02.47.16:924][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.03-02.47.16:954][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.03-02.47.16:972][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.03-02.47.17:006][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.03-02.47.17:057][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.03-02.47.17:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-02.47.17:192][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.03-02.47.17:483][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.03-02.47.17:483][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.03-02.47.17:519][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.03-02.47.17:519][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.03-02.47.17:575][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.03-02.47.17:597][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.03-02.47.17:616][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.03-02.47.17:646][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.03-02.47.17:665][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.03-02.47.17:665][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.03-02.47.19:031][  0]LogXGEController: Cleaning working directory: C:/Users/justf/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.03-02.47.19:031][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.03-02.47.19:031][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.03-02.47.19:031][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.03-02.47.26:414][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.03-02.47.26:832][  0]LogDerivedDataCache: Loaded boot cache 0.42s 71MB C:/Users/justf/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.03-02.47.26:832][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/justf/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.03-02.47.26:832][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../The-boundary-tree/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.03-02.47.26:832][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.03-02.47.26:832][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../The-boundary-tree/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.03-02.47.26:832][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.03-02.47.26:923][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.03-02.47.26:936][  0]LogDerivedDataCache: Using Local data cache path C:/Users/justf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.03-02.47.26:936][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.03-02.47.26:936][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.03-02.47.27:153][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.03-02.47.27:235][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.03-02.47.27:347][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.03-02.47.31:531][  0]LogAssetRegistry: FAssetRegistry took 0.0381 seconds to start up
+[2019.01.03-02.47.38:105][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.03-02.47.42:460][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.03-02.47.42:718][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.03-02.47.42:718][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.03-02.47.42:750][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.03-02.47.42:750][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.03-02.47.43:593][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1110078900)
+[2019.01.03-02.47.44:399][  0]LogObj: Error: LoadConfig (/Script/Engine.Default__RendererSettings): import failed for bEnableAlphaChannelInPostProcessing in: False
+[2019.01.03-02.47.50:196][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.219601 seconds
+[2019.01.03-02.47.50:240][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.03-02.47.50:240][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.01.03-02.47.50:240][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.03-02.48.21:580][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.03-02.48.21:640][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.03-02.48.23:058][  0]SourceControl: Source control is disabled
+[2019.01.03-02.48.23:064][  0]SourceControl: Source control is disabled
+[2019.01.03-02.48.23:212][  0]SourceControl: Source control is disabled
+[2019.01.03-02.48.23:229][  0]SourceControl: Source control is disabled
+[2019.01.03-02.48.26:287][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.03-02.48.26:499][  0]LogOcInput: OculusInput pre-init called
+[2019.01.03-02.48.27:491][  0]LogEngine: Initializing Engine...
+[2019.01.03-02.48.27:526][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.03-02.48.27:568][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.010 s
+[2019.01.03-02.48.27:568][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.03-02.48.27:569][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.03-02.48.27:569][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.03-02.48.28:423][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.03-02.48.29:318][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.03-02.48.29:484][  0]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-02.48.29:511][  0]LogInit: FAudioDevice initialized.
+[2019.01.03-02.48.29:512][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.03-02.48.29:580][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/justf/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.03-02.48.29:591][  0]LogInit: Texture streaming: Enabled
+[2019.01.03-02.48.29:727][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.03-02.48.29:861][  0]LogInit: Transaction tracking system initialized
+[2019.01.03-02.48.30:742][  0]BlueprintLog: New page: Editor Load
+[2019.01.03-02.48.33:557][  0]LocalizationService: Localization service is disabled
+[2019.01.03-02.48.38:429][  0]LogFileCache: Scanning file cache for directory 'A:/Work/The-boundary-tree/MyProject/Content/' took 0.03s
+[2019.01.03-02.48.38:429][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.03-02.48.38:438][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.03-02.48.38:458][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.03-02.48.38:458][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.03-02.48.38:458][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.03-02.48.38:458][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.03-02.48.38:458][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.03-02.48.42:471][  0]SourceControl: Source control is disabled
+[2019.01.03-02.48.42:490][  0]Cmd: MAP LOAD FILE="../../../../The-boundary-tree/MyProject/Content/Maps/Menu_Intro.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.03-02.48.42:520][  0]LightingResults: New page: Lighting Build
+[2019.01.03-02.48.42:653][  0]MapCheck: New page: Map Check
+[2019.01.03-02.48.42:653][  0]LightingResults: New page: Lighting Build
+[2019.01.03-02.48.47:966][  0]LogMaterial: Display: Missing cached shader map for material Mat_TheBook_BigStar, compiling. 
+[2019.01.03-02.48.48:002][  0]LogMaterial: Warning: A:\Work\The-boundary-tree\MyProject\Content\Menu_Intro\LevelElements\TheBook\Mat_TheBook_BigStar.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.03-02.48.48:002][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.01.03-02.48.48:383][  0]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-02.48.49:232][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.03-02.48.49:407][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.03-02.48.49:451][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43,098ms to complete.
+[2019.01.03-02.48.49:451][  0]LogFileHelpers: Loading map 'Menu_Intro' took 6.974
+[2019.01.03-02.48.51:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-02.48.51:256][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-02.48.51:263][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-02.48.51:270][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-02.48.51:528][  0]LogCollectionManager: Loaded 0 collections in 0.008906 seconds
+[2019.01.03-02.48.52:627][  0]LogFileCache: Scanning file cache for directory 'A:/Work/The-boundary-tree/MyProject/Saved/Collections/' took 0.01s
+[2019.01.03-02.48.52:627][  0]LogFileCache: Scanning file cache for directory 'A:/Work/The-boundary-tree/MyProject/Content/Developers/justf/Collections/' took 0.01s
+[2019.01.03-02.48.52:627][  0]LogFileCache: Scanning file cache for directory 'A:/Work/The-boundary-tree/MyProject/Content/Collections/' took 0.01s
+[2019.01.03-02.48.52:627][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.03-02.48.52:772][  0]LogContentBrowser: Native class hierarchy populated in 0.1438 seconds. Added 2575 classes and 605 folders.
+[2019.01.03-02.48.53:453][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.03-02.48.55:115][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.03-02.48.55:318][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.03-02.48.57:695][  0]LogSlate: Took 0.009132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.03-02.48.57:736][  0]LogSlate: Took 0.028767 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.03-02.48.57:776][  0]LogSlate: Took 0.012924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.03-02.48.58:583][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.01.03-02.49.00:270][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.03-02.49.00:270][  0]LogLoad: (Engine Initialization) Total time: 150.99 seconds
+[2019.01.03-02.49.00:270][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.03-02.49.00:441][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.03-02.49.00:637][  0]LogSlate: Took 0.010653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.03-02.49.00:997][  2]LogAssetRegistry: Asset discovery search completed in 89.4992 seconds
+[2019.01.03-02.49.01:032][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.03-02.49.01:032][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2019.01.03-02.49.01:367][  4]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.03-02.49.01:375][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Menu_Intro/Blueprints/BP_TestSave.BP_TestSave
+[2019.01.03-02.49.03:133][  4]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.01.03-02.49.05:706][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Menu_Intro/Blueprints/Pawn_BookSelector.Pawn_BookSelector
+[2019.01.03-02.49.06:244][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Menu_Intro/LevelElements/TheBook/BP_TheBook.BP_TheBook
+[2019.01.03-02.49.06:630][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Menu_Intro/Controller_MenuIntro.Controller_MenuIntro
+[2019.01.03-02.49.06:948][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Menu_Intro/Blueprints/BP_TestGameInstance.BP_TestGameInstance
+[2019.01.03-02.49.07:303][  4]LogSlate: Took 0.007285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.03-02.49.07:871][  5]LogSlate: Took 0.012673 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.03-03.42.38:324][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-03.42.59:669][217]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-03.42.59:798][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-03.42.59:845][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-03.43.00:096][217]PIE: New page: PIE session: Menu_Intro (3 янв. 2019 г., 23:42:59)
+[2019.01.03-03.43.00:096][217]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2019.01.03-03.43.00:174][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077288s)
+[2019.01.03-03.43.00:174][217]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-03.43.00:182][217]LogPlayLevel: PIE: World Init took: (0.008420s)
+[2019.01.03-03.43.00:189][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.092221s)
+[2019.01.03-03.43.00:326][217]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-03.43.00:343][217]LogInit: FAudioDevice initialized.
+[2019.01.03-03.43.00:571][217]LogLoad: Game class is 'GameMode_Intro_C'
+[2019.01.03-03.43.00:675][217]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2019.01.03-13.43.00
+[2019.01.03-03.43.00:861][217]LogWorld: Bringing up level for play took: 0.194797
+[2019.01.03-03.43.01:068][217]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 10 classes and 0 folders.
+[2019.01.03-03.43.01:270][217]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro 2,059
+[2019.01.03-03.43.01:270][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-03.43.03:722][453]LogBlueprintUserMessages: [BP_TestGameInstance_C_0] ERROR! Game data can not be saved!
+[2019.01.03-03.43.06:087][735]LogBlueprintUserMessages: [BP_TestGameInstance_C_0] ERROR! Game data can not be saved!
+[2019.01.03-03.43.06:446][778]LogBlueprintUserMessages: [BP_TestGameInstance_C_0] ERROR! Game data can not be saved!
+[2019.01.03-03.43.06:613][798]LogBlueprintUserMessages: [BP_TestGameInstance_C_0] ERROR! Game data can not be saved!
+[2019.01.03-03.43.06:788][819]LogBlueprintUserMessages: [BP_TestGameInstance_C_0] ERROR! Game data can not be saved!
+[2019.01.03-03.43.06:950][838]LogBlueprintUserMessages: [BP_TestGameInstance_C_0] ERROR! Game data can not be saved!
+[2019.01.03-03.43.07:101][856]LogBlueprintUserMessages: [BP_TestGameInstance_C_0] ERROR! Game data can not be saved!
+[2019.01.03-03.43.07:887][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-03.43.07:987][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-03.43.08:323][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-03.43.08:341][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-03.43.08:484][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-03.43.08:695][950]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.01.03-03.43.09:477][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-03.44.09:827][274]BlueprintLog: New page: Compile BP_TestGameInstance
+[2019.01.03-03.44.13:910][683]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-03.44.13:939][683]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-03.44.13:939][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-03.44.13:939][683]PIE: New page: PIE session: Menu_Intro (3 янв. 2019 г., 23:44:13)
+[2019.01.03-03.44.13:942][683]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2019.01.03-03.44.13:950][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008570s)
+[2019.01.03-03.44.13:951][683]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-03.44.13:951][683]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2019.01.03-03.44.13:951][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.009334s)
+[2019.01.03-03.44.14:008][683]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-03.44.14:014][683]LogInit: FAudioDevice initialized.
+[2019.01.03-03.44.14:062][683]LogLoad: Game class is 'GameMode_Intro_C'
+[2019.01.03-03.44.14:066][683]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2019.01.03-13.44.14
+[2019.01.03-03.44.14:067][683]LogWorld: Bringing up level for play took: 0.004168
+[2019.01.03-03.44.14:080][683]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro 0,871
+[2019.01.03-03.44.14:081][683]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-03.44.16:319][906]LogBlueprintUserMessages: [BP_TestGameInstance_C_1] OK!
+[2019.01.03-03.44.17:288][  4]LogBlueprintUserMessages: [BP_TestGameInstance_C_1] OK!
+[2019.01.03-03.44.18:037][ 80]LogBlueprintUserMessages: [BP_TestGameInstance_C_1] OK!
+[2019.01.03-03.44.19:398][221]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-03.44.19:398][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-03.44.19:431][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-03.44.19:431][221]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-03.44.19:465][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-03.44.19:520][222]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.03-03.44.20:415][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-03.45.56:133][ 97]BlueprintLog: New page: Compile Controller_MenuIntro
+[2019.01.03-03.46.36:452][240]BlueprintLog: New page: Compile Controller_MenuIntro
+[2019.01.03-03.46.41:414][771]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-03.46.41:443][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-03.46.41:443][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-03.46.41:443][771]PIE: New page: PIE session: Menu_Intro (3 янв. 2019 г., 23:46:41)
+[2019.01.03-03.46.41:443][771]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2019.01.03-03.46.41:452][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008821s)
+[2019.01.03-03.46.41:452][771]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-03.46.41:453][771]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2019.01.03-03.46.41:453][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.009668s)
+[2019.01.03-03.46.41:487][771]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-03.46.41:493][771]LogInit: FAudioDevice initialized.
+[2019.01.03-03.46.41:538][771]LogLoad: Game class is 'GameMode_Intro_C'
+[2019.01.03-03.46.41:542][771]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2019.01.03-13.46.41
+[2019.01.03-03.46.41:542][771]LogWorld: Bringing up level for play took: 0.004178
+[2019.01.03-03.46.41:556][771]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro 0,346
+[2019.01.03-03.46.41:556][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-03.46.43:002][930]LogBlueprintUserMessages: [BP_TestGameInstance_C_2] OK!
+[2019.01.03-03.46.44:382][ 80]LogBlueprintUserMessages: [Controller_MenuIntro_C_0] 0
+[2019.01.03-03.46.45:008][150]LogBlueprintUserMessages: [Controller_MenuIntro_C_0] 0
+[2019.01.03-03.46.45:333][187]LogBlueprintUserMessages: [Controller_MenuIntro_C_0] 0
+[2019.01.03-03.46.45:501][206]LogBlueprintUserMessages: [Controller_MenuIntro_C_0] 0
+[2019.01.03-03.46.46:478][315]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-03.46.46:478][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-03.46.46:516][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-03.46.46:516][315]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-03.46.46:547][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-03.46.46:585][317]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.03-03.47.14:546][529]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-03.47.14:599][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu_Intro' took 0.030
+[2019.01.03-03.47.14:667][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu_Intro/Controller_MenuIntro] ([1] browsable assets)...
+[2019.01.03-03.47.14:678][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu_Intro/Controller_MenuIntro]
+[2019.01.03-03.47.15:420][529]LogSavePackage: Moving '../../../../The-boundary-tree/MyProject/Saved/Controller_MenuIntro_Auto116CDA62F4F982807908E4DAD480F09C4.tmp' to '../../../../The-boundary-tree/MyProject/Saved/Autosaves/Game/Menu_Intro/Controller_MenuIntro_Auto1.uasset'
+[2019.01.03-03.47.15:451][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu_Intro/Blueprints/BP_TestGameInstance] ([1] browsable assets)...
+[2019.01.03-03.47.15:451][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu_Intro/Blueprints/BP_TestGameInstance]
+[2019.01.03-03.47.15:504][529]LogSavePackage: Moving '../../../../The-boundary-tree/MyProject/Saved/BP_TestGameInstance_Auto1D3E8AC2A4B1DB970633EDF8DE6D2F5E9.tmp' to '../../../../The-boundary-tree/MyProject/Saved/Autosaves/Game/Menu_Intro/Blueprints/BP_TestGameInstance_Auto1.uasset'
+[2019.01.03-03.47.15:521][529]LogFileHelpers: Auto-saving content packages took 0.922
+[2019.01.03-03.53.33:257][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-03.53.38:738][650]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Menu_Intro.Menu_Intro
+[2019.01.03-03.53.44:691][650]LogSlate: Window 'Save Content' being destroyed
+[2019.01.03-03.53.46:620][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Intro/Controller_MenuIntro" FILE="../../../../The-boundary-tree/MyProject/Content/Menu_Intro/Controller_MenuIntro.uasset" SILENT=true
+[2019.01.03-03.53.46:692][821]LogSavePackage: Moving '../../../../The-boundary-tree/MyProject/Saved/Controller_MenuIntro7284E1D44BB86F639F734AADF649F80C.tmp' to '../../../../The-boundary-tree/MyProject/Content/Menu_Intro/Controller_MenuIntro.uasset'
+[2019.01.03-03.53.46:697][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Intro/Blueprints/BP_TestGameInstance" FILE="../../../../The-boundary-tree/MyProject/Content/Menu_Intro/Blueprints/BP_TestGameInstance.uasset" SILENT=true
+[2019.01.03-03.53.46:757][821]LogSavePackage: Moving '../../../../The-boundary-tree/MyProject/Saved/BP_TestGameInstance0C0EA3724ABB145B8C5461AFA27D3682.tmp' to '../../../../The-boundary-tree/MyProject/Content/Menu_Intro/Blueprints/BP_TestGameInstance.uasset'
+[2019.01.03-04.03.34:585][ 14]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.03-04.03.34:585][ 14]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.03-04.04.56:077][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-04.05.32:446][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-04.05.32:477][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.05.32:477][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-04.05.32:477][ 64]PIE: New page: PIE session: Menu_Intro (4 янв. 2019 г., 0:05:32)
+[2019.01.03-04.05.32:480][ 64]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2019.01.03-04.05.32:490][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010604s)
+[2019.01.03-04.05.32:491][ 64]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-04.05.32:491][ 64]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2019.01.03-04.05.32:491][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.011533s)
+[2019.01.03-04.05.32:529][ 64]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-04.05.32:537][ 64]LogInit: FAudioDevice initialized.
+[2019.01.03-04.05.32:569][ 64]LogLoad: Game class is 'GameMode_Intro_C'
+[2019.01.03-04.05.32:573][ 64]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2019.01.03-14.05.32
+[2019.01.03-04.05.32:574][ 64]LogWorld: Bringing up level for play took: 0.004661
+[2019.01.03-04.05.32:588][ 64]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro -0,622
+[2019.01.03-04.05.32:588][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.05.33:432][134]LogBlueprintUserMessages: [SlidingBook_307] Complete
+[2019.01.03-04.05.34:911][259]LogBlueprintUserMessages: [SlidingBook_308] Complete
+[2019.01.03-04.05.36:683][414]LogBlueprintUserMessages: [SlidingBook_310] Complete
+[2019.01.03-04.05.51:622][697]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.05.51:623][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.05.51:672][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-04.05.51:672][697]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.05.51:705][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.05.51:736][698]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.03-04.05.52:900][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-04.05.58:040][237]BlueprintLog: New page: Compile Pawn_BookSelector
+[2019.01.03-04.05.59:252][292]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-04.05.59:280][292]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.05.59:281][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-04.05.59:281][292]PIE: New page: PIE session: Menu_Intro (4 янв. 2019 г., 0:05:59)
+[2019.01.03-04.05.59:281][292]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2019.01.03-04.05.59:290][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009009s)
+[2019.01.03-04.05.59:290][292]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-04.05.59:291][292]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2019.01.03-04.05.59:291][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.009691s)
+[2019.01.03-04.05.59:326][292]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-04.05.59:332][292]LogInit: FAudioDevice initialized.
+[2019.01.03-04.05.59:364][292]LogLoad: Game class is 'GameMode_Intro_C'
+[2019.01.03-04.05.59:368][292]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2019.01.03-14.05.59
+[2019.01.03-04.05.59:369][292]LogWorld: Bringing up level for play took: 0.004145
+[2019.01.03-04.05.59:382][292]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro 0,172
+[2019.01.03-04.05.59:383][292]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.06.18:147][957]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.06.18:148][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.06.18:183][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-04.06.18:183][957]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.06.18:217][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.06.18:249][958]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.03-04.06.19:178][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-04.07.15:666][ 56]BlueprintLog: New page: Compile Pawn_BookSelector
+[2019.01.03-04.07.16:758][101]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-04.07.16:787][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.07.16:787][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-04.07.16:788][101]PIE: New page: PIE session: Menu_Intro (4 янв. 2019 г., 0:07:16)
+[2019.01.03-04.07.16:788][101]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2019.01.03-04.07.16:797][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008876s)
+[2019.01.03-04.07.16:797][101]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-04.07.16:797][101]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2019.01.03-04.07.16:797][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.009540s)
+[2019.01.03-04.07.16:832][101]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-04.07.16:838][101]LogInit: FAudioDevice initialized.
+[2019.01.03-04.07.16:869][101]LogLoad: Game class is 'GameMode_Intro_C'
+[2019.01.03-04.07.16:873][101]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2019.01.03-14.07.16
+[2019.01.03-04.07.16:873][101]LogWorld: Bringing up level for play took: 0.004002
+[2019.01.03-04.07.16:887][101]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro -0,324
+[2019.01.03-04.07.16:887][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.07.33:239][708]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.07.33:239][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.07.33:289][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-04.07.33:290][708]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.07.33:321][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.07.33:355][709]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.01.03-04.07.35:746][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-04.08.14:620][423]BlueprintLog: New page: Compile Pawn_BookSelector
+[2019.01.03-04.08.21:619][926]BlueprintLog: New page: Compile Pawn_BookSelector
+[2019.01.03-04.08.22:510][957]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-04.08.22:538][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.08.22:538][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-04.08.22:538][957]PIE: New page: PIE session: Menu_Intro (4 янв. 2019 г., 0:08:22)
+[2019.01.03-04.08.22:539][957]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2019.01.03-04.08.22:548][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009240s)
+[2019.01.03-04.08.22:548][957]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-04.08.22:549][957]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2019.01.03-04.08.22:549][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.009985s)
+[2019.01.03-04.08.22:582][957]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-04.08.22:588][957]LogInit: FAudioDevice initialized.
+[2019.01.03-04.08.22:616][957]LogLoad: Game class is 'GameMode_Intro_C'
+[2019.01.03-04.08.22:619][957]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2019.01.03-14.08.22
+[2019.01.03-04.08.22:620][957]LogWorld: Bringing up level for play took: 0.003899
+[2019.01.03-04.08.22:633][957]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro -0,576
+[2019.01.03-04.08.22:633][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.08.34:995][987]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.08.34:995][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.08.35:034][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-04.08.35:035][987]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.08.35:068][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.08.35:104][988]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.01.03-04.08.35:638][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-04.08.35:724][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-04.08.35:753][ 38]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.08.35:753][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-04.08.35:753][ 38]PIE: New page: PIE session: Menu_Intro (4 янв. 2019 г., 0:08:35)
+[2019.01.03-04.08.35:753][ 38]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2019.01.03-04.08.35:763][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009551s)
+[2019.01.03-04.08.35:763][ 38]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-04.08.35:764][ 38]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2019.01.03-04.08.35:764][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.010490s)
+[2019.01.03-04.08.35:799][ 38]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-04.08.35:805][ 38]LogInit: FAudioDevice initialized.
+[2019.01.03-04.08.35:834][ 38]LogLoad: Game class is 'GameMode_Intro_C'
+[2019.01.03-04.08.35:837][ 38]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2019.01.03-14.08.35
+[2019.01.03-04.08.35:838][ 38]LogWorld: Bringing up level for play took: 0.003745
+[2019.01.03-04.08.35:851][ 38]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro 0,642
+[2019.01.03-04.08.35:852][ 38]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.08.49:583][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.08.49:583][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.08.49:616][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-04.08.49:616][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.08.49:649][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.08.49:683][196]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.03-04.08.50:508][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-04.08.50:604][265]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-04.08.50:633][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.08.50:634][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-04.08.50:634][265]PIE: New page: PIE session: Menu_Intro (4 янв. 2019 г., 0:08:50)
+[2019.01.03-04.08.50:634][265]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2019.01.03-04.08.50:644][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009668s)
+[2019.01.03-04.08.50:644][265]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-04.08.50:644][265]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2019.01.03-04.08.50:644][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.010548s)
+[2019.01.03-04.08.50:679][265]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-04.08.50:686][265]LogInit: FAudioDevice initialized.
+[2019.01.03-04.08.50:717][265]LogLoad: Game class is 'GameMode_Intro_C'
+[2019.01.03-04.08.50:721][265]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2019.01.03-14.08.50
+[2019.01.03-04.08.50:721][265]LogWorld: Bringing up level for play took: 0.004166
+[2019.01.03-04.08.50:734][265]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro -0,476
+[2019.01.03-04.08.50:735][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.09.02:351][238]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.09.02:351][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.09.02:386][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-04.09.02:386][238]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.09.02:418][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.09.02:451][239]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.03-04.09.36:530][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-04.09.36:568][125]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu_Intro' took 0.030
+[2019.01.03-04.09.36:569][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu_Intro/Blueprints/Pawn_BookSelector] ([1] browsable assets)...
+[2019.01.03-04.09.36:646][125]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Menu_Intro/Blueprints/Pawn_BookSelector.Pawn_BookSelector]
+[2019.01.03-04.09.36:646][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu_Intro/Blueprints/Pawn_BookSelector]
+[2019.01.03-04.09.36:884][125]LogSavePackage: Moving '../../../../The-boundary-tree/MyProject/Saved/Pawn_BookSelector_Auto2538A774C47D936739D9243960536EFA5.tmp' to '../../../../The-boundary-tree/MyProject/Saved/Autosaves/Game/Menu_Intro/Blueprints/Pawn_BookSelector_Auto2.uasset'
+[2019.01.03-04.09.36:892][125]LogFileHelpers: Auto-saving content packages took 0.323
+[2019.01.03-04.11.16:228][407]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-04.11.16:257][407]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.11.16:257][407]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.03-04.11.16:312][407]LogPlayLevel: [PlayLevel] Compiling BP_TheBook before play...
+[2019.01.03-04.11.16:573][407]LogPlayLevel: PlayLevel: Blueprint regeneration took 314 ms (1 blueprints)
+[2019.01.03-04.11.16:573][407]PIE: New page: PIE session: Menu_Intro (4 янв. 2019 г., 0:11:16)
+[2019.01.03-04.11.16:573][407]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2019.01.03-04.11.16:583][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009833s)
+[2019.01.03-04.11.16:584][407]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-04.11.16:584][407]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2019.01.03-04.11.16:584][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.010506s)
+[2019.01.03-04.11.16:617][407]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-04.11.16:623][407]LogInit: FAudioDevice initialized.
+[2019.01.03-04.11.16:655][407]LogLoad: Game class is 'GameMode_Intro_C'
+[2019.01.03-04.11.16:659][407]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2019.01.03-14.11.16
+[2019.01.03-04.11.16:660][407]LogWorld: Bringing up level for play took: 0.004152
+[2019.01.03-04.11.16:673][407]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro -0,537
+[2019.01.03-04.11.16:673][407]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.11.16:884][412]LogBlueprintUserMessages: [SlidingBook_307] Complete
+[2019.01.03-04.11.25:270][194]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.11.25:270][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.11.25:307][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-04.11.25:307][194]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.11.25:339][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.11.25:371][195]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.01.03-04.11.28:303][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-04.11.56:440][158]BlueprintLog: New page: Compile Pawn_BookSelector
+[2019.01.03-04.11.57:426][197]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-04.11.57:471][197]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.11.57:472][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-04.11.57:472][197]PIE: New page: PIE session: Menu_Intro (4 янв. 2019 г., 0:11:57)
+[2019.01.03-04.11.57:472][197]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2019.01.03-04.11.57:481][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010097s)
+[2019.01.03-04.11.57:482][197]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-04.11.57:482][197]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2019.01.03-04.11.57:482][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.010889s)
+[2019.01.03-04.11.57:517][197]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-04.11.57:524][197]LogInit: FAudioDevice initialized.
+[2019.01.03-04.11.57:554][197]LogLoad: Game class is 'GameMode_Intro_C'
+[2019.01.03-04.11.57:557][197]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2019.01.03-14.11.57
+[2019.01.03-04.11.57:558][197]LogWorld: Bringing up level for play took: 0.003846
+[2019.01.03-04.11.57:571][197]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro 0,362
+[2019.01.03-04.11.57:572][197]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.12.08:702][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.12.08:702][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.12.08:738][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-04.12.08:738][284]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.12.08:774][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.12.08:806][285]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.01.03-04.12.09:298][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-04.12.09:379][337]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-04.12.09:408][337]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.12.09:408][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-04.12.09:408][337]PIE: New page: PIE session: Menu_Intro (4 янв. 2019 г., 0:12:09)
+[2019.01.03-04.12.09:409][337]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2019.01.03-04.12.09:417][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008661s)
+[2019.01.03-04.12.09:418][337]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-04.12.09:418][337]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2019.01.03-04.12.09:418][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.009368s)
+[2019.01.03-04.12.09:449][337]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-04.12.09:455][337]LogInit: FAudioDevice initialized.
+[2019.01.03-04.12.09:488][337]LogLoad: Game class is 'GameMode_Intro_C'
+[2019.01.03-04.12.09:491][337]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2019.01.03-14.12.09
+[2019.01.03-04.12.09:492][337]LogWorld: Bringing up level for play took: 0.003931
+[2019.01.03-04.12.09:505][337]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro 0,296
+[2019.01.03-04.12.09:506][337]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.12.16:736][ 37]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.12.16:736][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.12.16:769][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-04.12.16:769][ 37]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.12.16:802][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.12.16:857][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.01.03-04.12.18:491][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-04.12.59:463][963]BlueprintLog: New page: Compile BP_TheBook
+[2019.01.03-04.13.00:403][  5]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-04.13.00:447][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.13.00:447][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-04.13.00:447][  5]PIE: New page: PIE session: Menu_Intro (4 янв. 2019 г., 0:13:00)
+[2019.01.03-04.13.00:447][  5]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2019.01.03-04.13.00:456][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008890s)
+[2019.01.03-04.13.00:457][  5]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-04.13.00:457][  5]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2019.01.03-04.13.00:457][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.009578s)
+[2019.01.03-04.13.00:493][  5]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-04.13.00:499][  5]LogInit: FAudioDevice initialized.
+[2019.01.03-04.13.00:530][  5]LogLoad: Game class is 'GameMode_Intro_C'
+[2019.01.03-04.13.00:534][  5]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2019.01.03-14.13.00
+[2019.01.03-04.13.00:534][  5]LogWorld: Bringing up level for play took: 0.003936
+[2019.01.03-04.13.00:547][  5]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro -0,663
+[2019.01.03-04.13.00:548][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.13.18:117][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.13.18:117][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.13.18:164][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-04.13.18:165][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.13.18:197][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.13.18:312][689]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.01.03-04.13.18:883][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-04.13.18:957][747]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-04.13.18:986][747]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.13.18:986][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-04.13.18:986][747]PIE: New page: PIE session: Menu_Intro (4 янв. 2019 г., 0:13:18)
+[2019.01.03-04.13.18:987][747]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu_Intro
+[2019.01.03-04.13.18:996][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009090s)
+[2019.01.03-04.13.18:996][747]LogAIModule: Creating AISystem for world Menu_Intro
+[2019.01.03-04.13.18:997][747]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2019.01.03-04.13.18:997][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu_Intro.Menu_Intro to /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro (0.009968s)
+[2019.01.03-04.13.19:031][747]LogInit: XAudio2 using 'Динамики (SADES Hammer)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-04.13.19:037][747]LogInit: FAudioDevice initialized.
+[2019.01.03-04.13.19:068][747]LogLoad: Game class is 'GameMode_Intro_C'
+[2019.01.03-04.13.19:072][747]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Intro.Menu_Intro up for play (max tick rate 0) at 2019.01.03-14.13.19
+[2019.01.03-04.13.19:073][747]LogWorld: Bringing up level for play took: 0.004360
+[2019.01.03-04.13.19:085][747]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu_Intro -0,125
+[2019.01.03-04.13.19:086][747]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.14.33:516][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.14.33:516][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.14.33:565][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-04.14.33:566][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro' with GeneratedClass '/Game/Maps/Menu_Intro.Menu_Intro_C' with ClassGeneratedBy '/Game/Maps/Menu_Intro.Menu_Intro:PersistentLevel.Menu_Intro'
+[2019.01.03-04.14.33:597][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-04.14.33:709][971]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.01.03-04.14.42:984][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-04.15.41:010][760]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.123 s
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: 
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: Ensure condition failed: !InputKeys.Contains(Key) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\InputCore\Private\InputCoreTypes.cpp] [Line: 717]
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: Adding duplicate key 'UnknownCharCode_1105'
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: Stack: 
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: [Callstack] 0x00007ffc758a71f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: [Callstack] 0x00007ffc755e0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: [Callstack] 0x00007ffc755fb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: [Callstack] 0x00007ffc8d4697d8 UE4Editor-InputCore.dll!UnknownFunction []
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: [Callstack] 0x00007ffc8d46d6a5 UE4Editor-InputCore.dll!UnknownFunction []
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: [Callstack] 0x00007ffc74f299a9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: [Callstack] 0x00007ffc892ccfd6 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: [Callstack] 0x00007ffc892c0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: [Callstack] 0x00007ffc892cf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: [Callstack] 0x00007ffc892bc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.03-04.15.41:010][760]LogOutputDevice: Error: [Callstack] 0x00007ffc9f8f6d41 USER32.dll!UnknownFunction []
+[2019.01.03-04.15.41:011][760]LogOutputDevice: Error: [Callstack] 0x00007ffc9f8f6713 USER32.dll!UnknownFunction []
+[2019.01.03-04.15.41:011][760]LogOutputDevice: Error: [Callstack] 0x00007ffc892d0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.03-04.15.41:011][760]LogOutputDevice: Error: [Callstack] 0x00007ff65ef154e5 UE4Editor.exe!UnknownFunction []
+[2019.01.03-04.15.41:011][760]LogOutputDevice: Error: [Callstack] 0x00007ff65ef25b3c UE4Editor.exe!UnknownFunction []
+[2019.01.03-04.15.41:011][760]LogOutputDevice: Error: [Callstack] 0x00007ff65ef25bba UE4Editor.exe!UnknownFunction []
+[2019.01.03-04.15.41:011][760]LogOutputDevice: Error: [Callstack] 0x00007ff65ef33dac UE4Editor.exe!UnknownFunction []
+[2019.01.03-04.15.41:011][760]LogOutputDevice: Error: [Callstack] 0x00007ff65ef35aaa UE4Editor.exe!UnknownFunction []
+[2019.01.03-04.15.41:011][760]LogOutputDevice: Error: [Callstack] 0x00007ffc9f193034 KERNEL32.DLL!UnknownFunction []
+[2019.01.03-04.15.41:011][760]LogOutputDevice: Error: [Callstack] 0x00007ffca1c43691 ntdll.dll!UnknownFunction []
+[2019.01.03-04.15.41:011][760]LogOutputDevice: Error: 
+[2019.01.03-04.15.41:029][760]LogStats:                SubmitErrorReport -  0.013 s
